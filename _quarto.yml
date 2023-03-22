@@ -2,18 +2,29 @@ project:
   type: website
 
 website:
-  title: "testttt"
+  title: "LMU Open Science Center Summer School 2023"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: "Home"
+      - href: Programme.qmd
+        text: "Programme"
+      - href: Lectures.qmd
+        text: "Lectures"
+      - href: Workshops.qmd
+        text: "Workshops"
+      - href: Join.qmd
+        text: "Join"
+  favicon: LMU-OSC_logo_Twitter3.jpg
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+    - cosmo
+    - custom.scss
     toc: true
+css: styles.css
+ 
 
 editor: visual
 

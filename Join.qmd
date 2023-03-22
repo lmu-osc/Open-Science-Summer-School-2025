@@ -1,0 +1,16 @@
+## Apply to attend the whole summer school
+To attend the whole school, i.e. both public lectures and workshops for selected applicants, in person or online, you must apply before #FIXME date. 
+Apply here: #FIXME
+
+You will be asked about your motivation and experience. We will prioritize novices with a clear vision about how to integrate these news skills in their own research. 
+At equal score, we will prioritize members of the LMU, and maximize the diversity of applicants background in terms of discipline, career stage, and gender.
+
+We will not provide travel grants.
+
+
+## Join one or several lectures
+Anyone can register at any time before the end of the summer school to attend one, multiple, or all lectures online. #FIXME link to registration platform
+
+
+## Access the training material of the school
+Recording of the lectures, slides, and workshops material are accessible on our Open Science Framework repository under a CC BY 4.0 by attribution licence: #FIXME OSF repo link

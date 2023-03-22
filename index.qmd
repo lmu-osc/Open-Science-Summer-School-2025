@@ -1,11 +1,10 @@
----
-title: "testttt"
----
+The [LMU Open Science Center](https://www.osc.uni-muenchen.de/index.html) organises open research summer schools to allow early-career researchers to gain more trust in the research that they do, and make it as credible as it can be in the eyes of their peers, the public, and funding agencies.
 
-my landing page text
+By joining (or accessing the material after the school), you will learn how to:
 
-## Programme
+-   plan your statistical plans in advance of collecting data to prevent biases in analyses, with the help of preregistration and data simulation;
+-   create computationally reproducible workflows so you can be more efficient, spot mistakes in data wrangling or analyses, through version controlling scripts and dynamic reports;
+-   share data, materials, codes, and articles appropriately for your research to have more impact, by allowing others to build upon or replicate your work;
+-   conduct systematic reviews
 
-https://docs.google.com/spreadsheets/d/e/2PACX-1vTl-7UkHc_oLlmreolg2tRYd88N8b5itiNR8KJAf4zJNWlUNOpgXCj_a9v5usoS_k-ZnD1MpSvb2Dzg/pubhtml?gid=429244760&single=true
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eGUEAvNpz48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen</iframe>
+Material: OSF repository
