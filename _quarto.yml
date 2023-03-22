@@ -16,7 +16,10 @@ website:
         text: "Workshops"
       - href: Join.qmd
         text: "Join"
-  favicon: LMU-OSC_logo_Twitter3.jpg
+  favicon: LMU-OSC_favicon.jpg
+
+margin-header: |
+  ![](/LMU-OSC_logo.jpg)
 
 format:
   html:

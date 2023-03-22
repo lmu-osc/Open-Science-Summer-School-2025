@@ -1,6 +1,4 @@
 ```{=html}
 
-<iframe width="1200" height="1200" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTl-7UkHc_oLlmreolg2tRYd88N8b5itiNR8KJAf4zJNWlUNOpgXCj_a9v5usoS_k-ZnD1MpSvb2Dzg/pubhtml?gid=429244760&single=true"</iframe>
-
+<iframe width="1100" height="1010" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTl-7UkHc_oLlmreolg2tRYd88N8b5itiNR8KJAf4zJNWlUNOpgXCj_a9v5usoS_k-ZnD1MpSvb2Dzg/pubhtml?gid=429244760&single=true"</iframe>
 ```
-

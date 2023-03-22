@@ -2,7 +2,7 @@
 
 Monday 11 September, 10:00-10:45
 
-Prof [Felix Schoenbrodt](https://www.osc.uni-muenchen.de/about_us/director/index.html), LMU Open Science Center managing director and Prof of Psychology, will set the scene and present an overview of the replicability crisis across fields, and an introduction to open research initiatives.
+Prof [Felix Schoenbrodt](https://www.osc.uni-muenchen.de/about_us/director/index.html), LMU Open Science Center managing director and Prof of Psychology at the LMU, will set the scene and present an overview of the replicability crisis across fields, and an introduction to open research initiatives.
 
 ## Malika Ihle: Credible research
 
@@ -12,6 +12,8 @@ Dr [Malika Ihle](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html
 
 ## Uli Dirnagl: Reducing waste and increasing value of biomedical research
 
+Tuesday 12 September, 9:00-9:45
+
 Recent advances in biomedical research provide innumerable opportunities to develop novel preventive and therapeutic strategies. However, only a small fraction of biomedical discoveries are successfully translated into clinical applications. Potential 'breakthrough' therapies, which are spectacularly successful in animal models of disease, often fail in clinical trials. This translational bottleneck imposes burdens on research and healthcare systems, as well as patients who participate in trials of novel strategies. The high attrition rate of preclinical to clinical development may directly relate to concerns about the reliability and reproducibility of biomedical research. Apparently there are substantial weaknesses in planning, conducting, analysing, and reporting this research. Low internal and external validity as well as low statistical power in particular of preclinical research appears to produce a very high rate of false positives, and inflates effect sizes unrealistically. Not surprisingly then, the majority of scientists believe that we are in the midst of a 'reproducibility crisis'. The immense proliferation in research outputs, combined with increasing methodological complexity and the size of data sets, greatly complicates the sharing, evaluation, and synthesis of high quality evidence. At the same time, nonpublication of results leads to duplicative research and deprives medical decision-makers of the totality of evidence. But how can we overcome this crisis?
 
 In his presentation, Prof. [Uli Dirnagl](https://expneuro.charite.de/en/metas/person_detail/person/address_detail/prof_dr_ulrich_dirnagl-1/), Head of Department of Experimental Neurology at the Charité in Berlin, Co-founder and Director, Center for Stroke Research Berlin,\
@@ -19,7 +21,13 @@ Founding Director of QUEST The Center for Transforming Biomedical Research, Berl
 
 ## Stephan Hartmann: Bayesian Philosophy of Science
 
-## Tony Ross-Hellauer:
+Tuesday 12 September, 10:00-10:45
+
+Prof [Stephan Hartmann](http://www.stephanhartmann.org/), Professor of Philosophy at the LMU, and Co-Director of the Munich Center for Mathematical Philosophy (MCMP), will present his thoughts on scientific reasoning, and argue that good arguments and good inferences are characterized by their effect on our rational degrees of belief. Refuting the view that there is no place for subjective attitudes in 'objective science', he will explain the value of convincing evidence in terms of a cycle of variations on the theme of representing rational degrees of belief by means of subjective probabilities (and changing them by Bayesian conditionalization). We will then discuss whether reforms in research methodology that the open research movement proposes, are adapted to such view on scientific reasoning.
+
+## Tony Ross-Hellauer: Open = Inclusive and Equitable?
+
+[Tony Ross-Hellauer](https://tonyr-h.github.io/) Leader Open and Reproducible Research Group, Graz University of Technology and Know-Center, Austria, will discuss why equity should be included as an explicit consideration in the policies, reforms, and support mechanisms driving the transition to Open Science.
 
 ## Richard McElreath
 
