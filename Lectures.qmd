@@ -1,25 +1,25 @@
 ## Felix Schoenbrodt: Replicability crisis
+
 Monday 11 September, 10:00-10:45
 
-Prof [Felix Schoenbrodt](https://www.osc.uni-muenchen.de/about_us/director/index.html), LMU Open Science Center managing director and Prof of Psychology, will set the scene and present an overview of the replicability crisis across fields, and an introduction to open research initiatives. 
+Prof [Felix Schoenbrodt](https://www.osc.uni-muenchen.de/about_us/director/index.html), LMU Open Science Center managing director and Prof of Psychology, will set the scene and present an overview of the replicability crisis across fields, and an introduction to open research initiatives.
 
 ## Malika Ihle: Credible research
+
 Monday 11 September, 11:00-11:45
 
-Dr [Malika Ihle](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html), LMU Open Science Center coordinator, will give an overview of open research practices and will introduce the workshops of this summer school. She will argue that to make one’s research the most credible and the most likely to replicate, one can engage with preregistration, to increase the reliability of the research, and with a finite set of computing tools, to increase the reproducibility of their workflow.
+Dr [Malika Ihle](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html), LMU Open Science Center coordinator, will give an overview of open research practices and will introduce the workshops of this summer school. She will argue that to make one's research the most credible and the most likely to replicate, one can engage with preregistration, to increase the reliability of the research, and with a finite set of computing tools, to increase the reproducibility of their workflow.
 
 ## Uli Dirnagl: Reducing waste and increasing value of biomedical research
 
-Recent advances in biomedical research provide innumerable opportunities to develop novel preventive and therapeutic strategies. However, only a small fraction of biomedical discoveries are successfully translated into clinical applications. Potential ‘breakthrough’ therapies, which are spectacularly successful in animal models of disease, often fail in clinical trials. This translational bottleneck imposes burdens on research and healthcare systems, as well as patients who participate in trials of novel strategies. The high attrition rate of preclinical to clinical development may directly relate to concerns about the reliability and reproducibility of biomedical research. Apparently there are substantial weaknesses in planning, conducting, analysing, and reporting this research. Low internal and external validity as well as low statistical power in particular of preclinical research appears to produce a very high rate of false positives, and inflates effect sizes unrealistically. Not surprisingly then, the majority of scientists believe that we are in the midst of a ‘reproducibility crisis’. The immense proliferation in research outputs, combined with increasing methodological complexity and the size of data sets, greatly complicates the sharing, evaluation, and synthesis of high quality evidence. At the same time, nonpublication of results leads to duplicative research and deprives medical decision-makers of the totality of evidence. But how can we overcome this crisis?
+Recent advances in biomedical research provide innumerable opportunities to develop novel preventive and therapeutic strategies. However, only a small fraction of biomedical discoveries are successfully translated into clinical applications. Potential 'breakthrough' therapies, which are spectacularly successful in animal models of disease, often fail in clinical trials. This translational bottleneck imposes burdens on research and healthcare systems, as well as patients who participate in trials of novel strategies. The high attrition rate of preclinical to clinical development may directly relate to concerns about the reliability and reproducibility of biomedical research. Apparently there are substantial weaknesses in planning, conducting, analysing, and reporting this research. Low internal and external validity as well as low statistical power in particular of preclinical research appears to produce a very high rate of false positives, and inflates effect sizes unrealistically. Not surprisingly then, the majority of scientists believe that we are in the midst of a 'reproducibility crisis'. The immense proliferation in research outputs, combined with increasing methodological complexity and the size of data sets, greatly complicates the sharing, evaluation, and synthesis of high quality evidence. At the same time, nonpublication of results leads to duplicative research and deprives medical decision-makers of the totality of evidence. But how can we overcome this crisis?
 
-In his presentation, Prof. [Uli Dirnagl](https://expneuro.charite.de/en/metas/person_detail/person/address_detail/prof_dr_ulrich_dirnagl-1/), Head of Department of Experimental Neurology at the Charité in Berlin, Co-founder and Director, Center for Stroke Research Berlin, 	
+In his presentation, Prof. [Uli Dirnagl](https://expneuro.charite.de/en/metas/person_detail/person/address_detail/prof_dr_ulrich_dirnagl-1/), Head of Department of Experimental Neurology at the Charité in Berlin, Co-founder and Director, Center for Stroke Research Berlin,\
 Founding Director of QUEST The Center for Transforming Biomedical Research, Berlin Institute of Health, will present a set of behaviours, activities and research practices which present prime targets for improvement.
 
 ## Stephan Hartmann: Bayesian Philosophy of Science
 
-
-
-## Tony Ross-Hellauer: 
+## Tony Ross-Hellauer:
 
 ## Richard McElreath
 
@@ -31,4 +31,4 @@ Founding Director of QUEST The Center for Transforming Biomedical Research, Berl
 
 ## Raphael Ritz
 
-## Dennis Kenji Kipker 
+## Dennis Kenji Kipker
