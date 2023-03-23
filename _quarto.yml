@@ -4,6 +4,8 @@ project:
 
 website:
   title: "LMU Open Science Center Summer School 2023"
+  site-url: https://malikaihle.github.io/OSC-Open-Research-Summer-School-2023/ 
+  repo-url: https://github.com/MalikaIhle/OSC-Open-Research-Summer-School-2023 
   navbar:
     left:
       - href: index.qmd
@@ -16,10 +18,12 @@ website:
         text: "Workshops"
       - href: Join.qmd
         text: "Join"
+    pinned: true
+    collapse: true
   favicon: img/LMU-OSC_favicon.jpg
 
 margin-header: |
-  ![](/img/LMU-OSC_logo.jpg)
+  ![](/img/LMU-OSC_logo.jpg){width="175"}
 
 format:
   html:

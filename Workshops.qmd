@@ -1,1 +1,70 @@
+```{=html}
+<head>
+  <style>
+    img {
+      float: right;
+      margin: 13px;
+    }
+  </style>
+</head
+```
+## Hybrid networking
+Monday 11 September, 13:15-14:15
+
+In person and online participants will get to know each other in two rounds of speed-networking discussions in small groups, each with a 360 degrees camera-microphone.
+
+## R
+**Instructors**  
+Monday 11 September, 14:30-16:30
+
+You will learn the basics of the R programming language in the RStudio environment, such as data loading and wrangling. Basic R knowledge is needed for the rest of the course.
+
+## Julia
+**Aaron Peikert, Maximilian Ernst, Moritz Ketzer**
+![](img/moritz-ketzer.png){width="100"} ![](img/aaron-peikert.png){width="100"}Monday 11 September, 14:30-16:30
+
+For those who already know the basics of R, you will have the opportunity to learn the basic of the Julia programming languages through a facilitated self-paced tutorial. 
+
+## Preregistration: Why Not, How
+**Malika Ihle**  
+![](img/malika-ihle.png){width="100"} Tuesday 12 September, 13:13-15:15
+
+In this workshop, you will get an overview of what preregistration and registered reports are, and review what detailed information they should contain. We will then discuss then collectively discuss benefits and disadvantages of embracing such practices, as well as possible fear and concerns, in a structured academic debate, closing by a verbal group conclusion. Finally, we will look into how to preregister in practice on the Open Science Framework, and practice the level of precision needed in each section of a preregistration template by peer-reviewing snippets of preregistrations.
+
+## Simulations of data and data analyses in R
+**Malika Ihle**  
+![](img/malika-ihle.png){width="100"} Tuesday 12 September, 15:30-17:30
+
+You will be guided through the What, Why, and How of simulations of data and data analyses.  We will follow this self-paced tutorial: [https://malikaihle.github.io/Introduction-Simulations-in-R/](https://malikaihle.github.io/Introduction-Simulations-in-R/). The material covers power analyses for simple tests, checking false positive rate, and how simulations can help with preparing a preregistration. Basic knowledge of the R syntax is needed.
+
+## Version control with Git with RStudio
+**Malika Ihle, Felix Henninger, Pat Callahan**  
+![](img/felix-henninger.png){width="100"} ![](img/malika-ihle.png){width="100"} Wednesday 13 September, 13:15-16:15
+
+In this facilitated self-paced tutorial, you will learn the basic concept of version control using RStudio as one of many possible GUI interfaces that can interact with Git. You will learn how to use version control for your own workflow (Git within RStudio with backup online on GitHub) and for collaborative coding (fork, clone, pull requests on Github). The self-paced tutorials can be found at: [https://malikaihle.github.io/Introduction-RStudio-Git-GitHub/](https://malikaihle.github.io/Introduction-RStudio-Git-GitHub/) and [https://malikaihle.github.io/Collaborative-RStudio-GitHub/](https://malikaihle.github.io/Collaborative-RStudio-GitHub/). The targeted audience are complete novices regarding version control or Git, but who use R and RStudio at least occasionally.
+
+## Research Data Management plans
+**Laura Meier**
+Wednesday 13 September, 16:30-17:30
+
+## Quarto
+**Florian Pargent, Philipp Sckopke, Florian Kohrt, Lena Schiestel**  
+![](img/lena-schiestel.png){width="100"} ![](img/philipp-sckopke.png){width="100"} ![](img/florian-pargent.png){width="100"} Thursday 14 September, 13:15-15:15
+
+Quarto makes transparent and reproducible data analysis simple and fun. In a nutshell, Quarto lets you mix text written in markdown with chunks of executable code written in, e.g., R or Python. You can use it for interactive notebooks, and export to a large number of formats including HTML, PDF/LaTeX, Microsoft Word or PowerPoint, or even interactive websites. In this workshop, we cover the fundamentals, including the markdown syntax, code chunks and inline code, and the output formats available. We also go over citations, cross-referencing, and templating, which ultimately allow you to write academic papers entirely in Quarto.
+
+
+## What’s next? Facilitated group discussion
+**Verena Heise**  
+![](img/verena-heise.png){width="100"} Thursday 14 September, 16:30-17:30
+
+We will discuss how you plan to integrate parts of this course into your research and the strategies you can put in place to best support yourself in reaching your goals, following the "Ten simple rules for implementing open and reproducible research practices after attending a training course" ([https://doi.org/10.1371/journal.pcbi.1010750](https://doi.org/10.1371/journal.pcbi.1010750))
+
+## Systematic reviews
+**Sofija Vojvodic**  
+Friday 15 September, 13:15-15:15
+
+## How to use the Open Science Framework
+**Malika Ihle**  
+![](img/malika-ihle.png){width="100"} Friday 15 September, 15:30-17:30
 
