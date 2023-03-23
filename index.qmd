@@ -2,9 +2,9 @@ The [LMU Open Science Center](https://www.osc.uni-muenchen.de/index.html) organi
 
 By joining (or accessing the material after the school), you will learn how to:
 
--   plan your statistical plans in advance of collecting data to prevent biases in analyses, with the help of preregistration and data simulation;
--   create computationally reproducible workflows so you can be more efficient, spot mistakes in data wrangling or analyses, through creating dynamic reports and version controlling scripts;
--   share data, materials, codes, and articles appropriately for your research to have more impact, and allow others to build upon or replicate your work;
--   conduct systematic reviews
+-   plan your statistical plans in advance of collecting data to prevent biases in analyses, with the help of **preregistration** and **data simulation**;
+-   create computationally reproducible workflows so you can be more efficient and spot mistakes in data wrangling or analyses, through **programming**, creating **dynamic reports**, and **version controlling** scripts;
+-   share **data, materials, codes, and articles** appropriately (using **Findable, Accessible, Interoperable, Reusable principles**, sensible data **anonymity**, adequate **repositories**, **licences**) for your research to have more impact, and allow others to build upon or replicate your work;
+-   follow **guidelines to report results** adequately and conduct **systematic reviews**
 
-Material: OSF repository
+Material: #FIXME OSF repository link
