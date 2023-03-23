@@ -77,16 +77,27 @@ The session contains of both theoretical input and hands-on exercises in R.
 
 ## Tim Errington: Investigating the replicability of cancer research
 
-Thursday 14 September, 15:30-16:30
+![](img/tim-errington.png){width="100"} Thursday 14 September, 15:30-16:30
+
+Replicability is an important feature of scientific research, but aspects of contemporary research culture, such as an emphasis on novelty, can make replicability seem less important than it should be. The Reproducibility Project: Cancer Biology was set up to provide evidence about the replicability of preclinical research in cancer biology by repeating selected experiments from high-impact papers. A total of 50 experiments from 23 papers were repeated, generating data about the replicability of a total of 158 effects.
+
+Dr [Tim Errington](https://osf.io/alh38/) Senior Director of Research at Center for Open Science, will present and discuss the results and implications of this large replication project.
 
 ## Valérie Labonté: Reporting guidelines
 
-Friday 15 September, 9:00-9:45
+![](img/valerie-labonte.png){width="100"} Friday 15 September, 9:00-9:45
+
+[Valérie Labonté](https://www.cochrane.de/ueber-uns/team), researcher at Cochrame Deutschland, will present how to preserve integrity of results through following reporting guidelines. 
+
 
 ## Raphael Ritz: FAIR data and software
 
-Friday 15 September, 10:00-10:45
+![](img/raphael-ritz.png){width="100"} Friday 15 September, 10:00-10:45
+
+Dr [Raphael Ritz](https://www.rd-alliance.org/users/raphael), Head of Data Division at Max Planck Computing and Data Facility, will present FAIR data and software.
 
 ## Dennis Kenji Kipker: Research Copyrights
 
-Friday 15 September, 11:00-11:45
+![](img/dennis-kenji-kipker.png){width="100"} Friday 15 September, 11:00-11:45
+
+Prof [Denis Kenji Kipker](https://denniskenjikipker.de/), Professor for IT Security Law, World Trade Center, Bremmen, will present appropriate licences for sharing data and code. 
