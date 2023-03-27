@@ -25,9 +25,14 @@ You will learn the basics of the R programming language for data wrangling in th
 **Aaron Peikert, Maximilian Ernst, Moritz Ketzer**  
 ![](img/moritz-ketzer.png){width="100"} ![](img/aaron-peikert.png){width="100"} Monday 11 September, 14:30-16:30
 
-For selected participants who already know the basics of R, there will be the opportunity to learn the basics of the Julia programming language through a facilitated self-paced tutorial. Depending on the number of attendees from the summer school planned for this workshop, we may open it to public registration (with priority to LMU members). If so, it will be advertised on the [LMU Open Science Center mailing list](https://lists.lrz.de/mailman/listinfo/lmu-osc).
+For selected participants who already know the basics of R, there will be the opportunity to learn the basics of the Julia programming language through a facilitated self-paced tutorial.
+Depending on the number of attendees from the summer school planned for this workshop, we may open it to public registration (with priority to LMU members).
+If so, it will be advertised on the [LMU Open Science Center mailing list](https://lists.lrz.de/mailman/listinfo/lmu-osc).
 
-A team from the Max Planck Institute for Human Development and Max Planck UCL Centre for Computational Psychiatry and Ageing Research in Berlin will instruct this workshop: Dr [Aaron Peikert](https://www.mpib-berlin.mpg.de/person/103737/2549), post-doctoral fellow, [Maximilian Ernst](https://www.mpib-berlin.mpg.de/staff/maximilian-ernst), student assistant, and [Moritz Ketzer](https://www.mps-ucl-centre.mpg.de/people/126423), PhD student.
+A team from the Max Planck Institute for Human Development and Max Planck UCL Centre for Computational Psychiatry and Ageing Research in Berlin will instruct this workshop:
+Dr [Aaron Peikert](https://www.mpib-berlin.mpg.de/person/103737/2549), post-doctoral fellow,
+[Maximilian Ernst](https://www.mpib-berlin.mpg.de/staff/maximilian-ernst), student assistant, and
+[Moritz Ketzer](https://www.mps-ucl-centre.mpg.de/people/126423), PhD student.
 
 ## Preregistration: Why Not, How
 **Malika Ihle**  
