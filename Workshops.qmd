@@ -30,8 +30,8 @@ Depending on the number of attendees from the summer school planned for this wor
 If so, it will be advertised on the [LMU Open Science Center mailing list](https://lists.lrz.de/mailman/listinfo/lmu-osc).
 
 A team from the Max Planck Institute for Human Development and Max Planck UCL Centre for Computational Psychiatry and Ageing Research in Berlin will instruct this workshop:
-Dr [Aaron Peikert](https://www.mpib-berlin.mpg.de/person/103737/2549), post-doctoral fellow,
-[Maximilian Ernst](https://www.mpib-berlin.mpg.de/staff/maximilian-ernst), student assistant, and
+Dr. [Aaron Peikert](https://www.mpib-berlin.mpg.de/person/103737/2549), post-doctoral fellow,
+[Maximilian Ernst](https://www.mpib-berlin.mpg.de/staff/maximilian-ernst), PhD student, and
 [Moritz Ketzer](https://www.mps-ucl-centre.mpg.de/people/126423), PhD student.
 
 ## Preregistration: Why Not, How
