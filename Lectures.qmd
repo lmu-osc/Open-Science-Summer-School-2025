@@ -89,7 +89,7 @@ Dr. [Tim Errington](https://osf.io/alh38/), Senior Director of Research at Cente
 
 ![](img/valerie-labonte.png){width="100"} Friday 15 September, 9:00-9:45
 
-[Valérie Labonté](https://www.cochrane.de/ueber-uns/team), researcher at Cochrane Germany, will present how to preserve integrity of results through following reporting guidelines. 
+[Valérie Labonté](https://www.cochrane.de/ueber-uns/team), researcher at the Institute for Evidence in Medicine at the University of Freiburg, and researcher at the Cochrane Germany Foundation, will present how to preserve integrity of results through following reporting guidelines. 
 
 
 ## Raphael Ritz: FAIR data and software
