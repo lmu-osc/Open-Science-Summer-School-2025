@@ -7,4 +7,4 @@ By joining (or accessing the material after the school), you will learn how to:
 -   share **data, materials, codes, and articles** appropriately (using **Findable, Accessible, Interoperable, Reusable principles**, sensible data **anonymity**, adequate **repositories**, **licences**) for your research to have more impact, and allow others to build upon or replicate your work;
 -   follow **guidelines to report results** adequately and conduct **systematic reviews**
 
-Material: #FIXME
+Material: <https://osf.io/nymr5/>

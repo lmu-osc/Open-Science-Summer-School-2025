@@ -8,6 +8,8 @@
   </style>
 </head
 ```
+All lectures are opened for public registration (see [Join](Join.qmd)).  
+
 ## Felix Schönbrodt: Replicability crisis
 
 ![](img/felix-schoenbrodt.png){width="100"} Monday 11 September, 10:00-10:45
@@ -18,7 +20,7 @@ Prof [Felix Schönbrodt](https://www.osc.uni-muenchen.de/about_us/director/index
 
 ![](img/malika-ihle.png){width="100"} Monday 11 September, 11:00-11:45
 
-Dr [Malika Ihle](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html), LMU Open Science Center coordinator, will give an overview of open research practices and will introduce the workshops of this summer school. She will argue that to make one's research the most credible and the most likely to replicate, one can engage with preregistration, to increase the reliability of the research, and with a finite set of computing tools, to increase the reproducibility of their workflow.
+Dr [Malika Ihle](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html), LMU Open Science Center coordinator, will give an overview of open research practices and will introduce the workshops of this summer school. She will argue that to make your research the most credible and the most likely to replicate, you can engage with preregistration, to increase the reliability of the research, and with a finite set of computing tools, to increase the reproducibility of your workflow.
 
 ## Uli Dirnagl: Reducing waste and increasing value of biomedical research
 
@@ -52,24 +54,24 @@ Prof [Richard McElreath](https://www.eva.mpg.de/ecology/staff/richard-mcelreath/
 
 ![](img/joachim-wuttke.png){width="100"} Wednesday 13 September, 10:00-10:45
 
-PD Dr [Joachim Wuttke](https://www.fz-juelich.de/profile/wuttke_j), Group Leader of Scientific Computing, Jülich Centre for Neutron Science, Garching, will present guidelines for collaborative development of sustainable data treatment software (<https://doi.org/10.3233/JNR-220002>). In software engineering, there is a common saying that "code is read by humans more than it is executed by computers". Whether this is exactly true or not, one message remains: readability counts. This is even more so in research, as code is often the only available detailed description of the computational experiments of data analyses underlying your research. In this lecture Joachim will cover simple techniques to make your codes easier to read - by yourself, your colleagues or your peers reproducing your research.
+PD Dr [Joachim Wuttke](https://www.fz-juelich.de/profile/wuttke_j), Group Leader of Scientific Computing, Jülich Centre for Neutron Science, Garching, will present guidelines for collaborative development of sustainable data treatment software (<https://doi.org/10.3233/JNR-220002>). In software engineering, there is a common saying that "code is read by humans more than it is executed by computers". Whether this is exactly true or not, one message remains: readability counts. This is even more so in research, as code is often the only available detailed description of the computational experiments of data analyses underlying your research. This lecture will cover simple techniques to make your codes easier to read - by yourself, your colleagues or your peers reproducing your research.
 
 ## Felix Schönbrodt: Open access, preprints, postprints
 
-![](img/felix-schoenbrodt.png){width="100"} Wednesday 13 September, 11:00-11:45
+![](img/felix-schoenbrodt.png){width="100"} Wednesday 13 September, 11:00-11:45  
 
 Prof [Felix Schönbrodt](https://www.osc.uni-muenchen.de/about_us/director/index.html) will explain the different shades of Open Access (e.g. green, gold, diamond) and their advantages, and show what different ways there are to make your own publications freely accessible. He will also go into the business models of scientific publishers and take a critical look at their increasing activities as data analysis companies.
 
 ## Felix Schönbrodt: Data sharing
 
-![](img/felix-schoenbrodt.png){width="100"} Thursday 14 September, 9:00-10:15
-Prof [Felix Schönbrodt](https://www.osc.uni-muenchen.de/about_us/director/index.html) will explain the fundamental of data sharing practicalities.
+![](img/felix-schoenbrodt.png){width="100"} Thursday 14 September, 9:00-10:15  
+Prof [Felix Schönbrodt](https://www.osc.uni-muenchen.de/about_us/director/index.html) will explain why we should share data and the fundamental of data sharing practicalities. 
 
 ## Felix Schönbrodt: Data anonymity
 
 ![](img/felix-schoenbrodt.png){width="100"} Thursday 14 September, 10:30-11:45
 
-Why should we share data? Which kinds of research data need to be protected? What are personal data? How can the risk of re-identification be assessed? How can data be anonymized? What are easy steps to enhance procedural safety in the use of sensible data?
+Which kinds of research data need to be protected? What are personal data? How can the risk of re-identification be assessed? How can data be anonymized? What are easy steps to enhance procedural safety in the use of sensible data?
 
 Prof [Felix Schönbrodt](https://www.osc.uni-muenchen.de/about_us/director/index.html) will present new technological solutions that allow sharing sensible data (e.g. synthetic data, scientific use files, differential privacy).
 
