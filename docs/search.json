@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "LMU Open Science Center Summer School 2023",
     "section": "",
-    "text": "The LMU Open Science Center organises this open research summer school to allow early-career researchers to gain more trust in the research that they do, and make it as credible as it can be in the eyes of their peers, the public, and funding agencies.\nBy joining (or accessing the material after the school), you will learn how to:\n\nplan your statistical plans in advance of collecting data to prevent biases in analyses, with the help of preregistration and data simulation;\ncreate computationally reproducible workflows so you can be more efficient and spot mistakes in data wrangling or analyses, through programming, creating dynamic reports, and version controlling scripts;\nshare data, materials, codes, and articles appropriately (using Findable, Accessible, Interoperable, Reusable principles, sensible data anonymity, adequate repositories, licences) for your research to have more impact, and allow others to build upon or replicate your work;\nfollow guidelines to report results adequately and conduct systematic reviews\n\nMaterial: #FIXME"
+    "text": "The LMU Open Science Center organises this hybrid open research summer school to allow early-career researchers to gain more trust in the research that they do, and make it as credible as it can be in the eyes of their peers, the public, and funding agencies.\nBy joining (or accessing the material after the school), you will learn how to:\n\nplan your statistical plans in advance of collecting data to prevent biases in analyses, with the help of preregistration and data simulation;\ncreate computationally reproducible workflows so you can be more efficient and spot mistakes in data wrangling or analyses, through programming, creating dynamic reports, and version controlling scripts;\nshare data, materials, codes, and articles appropriately (using Findable, Accessible, Interoperable, Reusable principles, sensible data anonymity, adequate repositories, licences) for your research to have more impact, and allow others to build upon or replicate your work;\nfollow guidelines to report results adequately and conduct systematic reviews\n\nMaterial: https://osf.io/nymr5/"
   },
   {
     "objectID": "Join.html",
     "href": "Join.html",
     "title": "LMU Open Science Center Summer School 2023",
     "section": "",
-    "text": "To attend the whole school, i.e. both public lectures and workshops for selected applicants, in person or online, you must apply before 17 July 2023, 12:00 noon.\nApply here: #FIXME\nYou will be asked about your motivation and experience. We will prioritize novices with a clear ideas about how to integrate these news skills in their own research. At equal score, we will prioritize members of the LMU, and maximize the diversity of applicants background in terms of discipline, career stage, and gender.\nWe will not provide travel grants."
+    "text": "To attend the whole school, i.e. both public lectures and workshops for selected applicants, in person or online, you must apply before 17 July 2023, 12:00 noon.\nApply here: #FIXME\nThe summer school is targetted at PhD students of all scientific disciplines (Medical sciences, Social Sciences, Life Sciences, etc. as opposed to research fields in the Humanities). Master students and early post docs are also welcome to apply. It will be held in a hybrid format and you will be able to choose your prefered mode of participation (online or in-person). By applying, we expect you to attend all sessions of the school (with exception possible).\nDuring the application process, you will be asked about your motivation and experience. We will prioritize novices with a clear ideas about where to integrate these news skills in their own research. At equal score, we will prioritize members of the LMU, and maximize the diversity of applicants background in terms of discipline, career stage, and gender.\nWe will not provide travel grants."
   },
   {
     "objectID": "Join.html#join-one-or-several-of-the-public-lectures",
@@ -25,21 +25,28 @@
     "href": "Join.html#access-the-training-material-of-the-school",
     "title": "LMU Open Science Center Summer School 2023",
     "section": "Access the training material of the school",
-    "text": "Access the training material of the school\nRecording of the lectures, slides, and workshops material are accessible on our Open Science Framework repository under a CC BY 4.0 by attribution licence.\nAccess our summer school material here: #FIXME"
+    "text": "Access the training material of the school\nRecording of the lectures, slides, and workshops material are accessible on our Open Science Framework repository under a CC BY 4.0 by attribution licence.\nAccess our summer school material here: https://osf.io/nymr5/"
   },
   {
     "objectID": "Lectures.html",
     "href": "Lectures.html",
     "title": "LMU Open Science Center Summer School 2023",
     "section": "",
-    "text": "Felix Schönbrodt: Replicability crisis\nMonday 11 September, 10:00-10:45\nProf Felix Schönbrodt, LMU Open Science Center managing director and Professor of Psychology at the LMU, will set the scene and present an overview of the replicability crisis across fields, and an introduction to open research initiatives."
+    "text": "Join"
+  },
+  {
+    "objectID": "Lectures.html#felix-schönbrodt-replicability-crisis",
+    "href": "Lectures.html#felix-schönbrodt-replicability-crisis",
+    "title": "LMU Open Science Center Summer School 2023",
+    "section": "Felix Schönbrodt: Replicability crisis",
+    "text": "Felix Schönbrodt: Replicability crisis\n Monday 11 September, 10:00-10:45\nProf Felix Schönbrodt, LMU Open Science Center managing director and Professor of Psychology at the LMU, will set the scene and present an overview of the replicability crisis across fields, and an introduction to open research initiatives."
   },
   {
     "objectID": "Lectures.html#malika-ihle-credible-research",
     "href": "Lectures.html#malika-ihle-credible-research",
     "title": "LMU Open Science Center Summer School 2023",
     "section": "Malika Ihle: Credible research",
-    "text": "Malika Ihle: Credible research\n Monday 11 September, 11:00-11:45\nDr Malika Ihle, LMU Open Science Center coordinator, will give an overview of open research practices and will introduce the workshops of this summer school. She will argue that to make one’s research the most credible and the most likely to replicate, one can engage with preregistration, to increase the reliability of the research, and with a finite set of computing tools, to increase the reproducibility of their workflow."
+    "text": "Malika Ihle: Credible research\n Monday 11 September, 11:00-11:45\nDr Malika Ihle, LMU Open Science Center coordinator, will give an overview of open research practices and will introduce the workshops of this summer school. She will argue that to make your research the most credible and the most likely to replicate, you can engage with preregistration, to increase the reliability of the research, and with a finite set of computing tools, to increase the reproducibility of your workflow."
   },
   {
     "objectID": "Lectures.html#uli-dirnagl-reducing-waste-and-increasing-value-of-biomedical-research",
@@ -74,7 +81,7 @@
     "href": "Lectures.html#joachim-wuttke-simple-techniques-for-writing-readable-code",
     "title": "LMU Open Science Center Summer School 2023",
     "section": "Joachim Wuttke: Simple techniques for writing readable code",
-    "text": "Joachim Wuttke: Simple techniques for writing readable code\n Wednesday 13 September, 10:00-10:45\nPD Dr Joachim Wuttke, Group Leader of Scientific Computing, Jülich Centre for Neutron Science, Garching, will present guidelines for collaborative development of sustainable data treatment software (https://doi.org/10.3233/JNR-220002). In software engineering, there is a common saying that “code is read by humans more than it is executed by computers”. Whether this is exactly true or not, one message remains: readability counts. This is even more so in research, as code is often the only available detailed description of the computational experiments of data analyses underlying your research. In this lecture Joachim will cover simple techniques to make your codes easier to read - by yourself, your colleagues or your peers reproducing your research."
+    "text": "Joachim Wuttke: Simple techniques for writing readable code\n Wednesday 13 September, 10:00-10:45\nPD Dr Joachim Wuttke, Group Leader of Scientific Computing, Jülich Centre for Neutron Science, Garching, will present guidelines for collaborative development of sustainable data treatment software (https://doi.org/10.3233/JNR-220002). In software engineering, there is a common saying that “code is read by humans more than it is executed by computers”. Whether this is exactly true or not, one message remains: readability counts. This is even more so in research, as code is often the only available detailed description of the computational experiments of data analyses underlying your research. This lecture will cover simple techniques to make your codes easier to read - by yourself, your colleagues or your peers reproducing your research."
   },
   {
     "objectID": "Lectures.html#felix-schönbrodt-open-access-preprints-postprints",
@@ -88,14 +95,14 @@
     "href": "Lectures.html#felix-schönbrodt-data-sharing",
     "title": "LMU Open Science Center Summer School 2023",
     "section": "Felix Schönbrodt: Data sharing",
-    "text": "Felix Schönbrodt: Data sharing\n Thursday 14 September, 9:00-10:15 Prof Felix Schönbrodt will explain the fundamental of data sharing practicalities."
+    "text": "Felix Schönbrodt: Data sharing\n Thursday 14 September, 9:00-10:15\nProf Felix Schönbrodt will explain why we should share data and the fundamental of data sharing practicalities."
   },
   {
     "objectID": "Lectures.html#felix-schönbrodt-data-anonymity",
     "href": "Lectures.html#felix-schönbrodt-data-anonymity",
     "title": "LMU Open Science Center Summer School 2023",
     "section": "Felix Schönbrodt: Data anonymity",
-    "text": "Felix Schönbrodt: Data anonymity\n Thursday 14 September, 10:30-11:45\nWhy should we share data? Which kinds of research data need to be protected? What are personal data? How can the risk of re-identification be assessed? How can data be anonymized? What are easy steps to enhance procedural safety in the use of sensible data?\nProf Felix Schönbrodt will present new technological solutions that allow sharing sensible data (e.g. synthetic data, scientific use files, differential privacy).\nThe session contains both theoretical input and hands-on exercises in R."
+    "text": "Felix Schönbrodt: Data anonymity\n Thursday 14 September, 10:30-11:45\nWhich kinds of research data need to be protected? What are personal data? How can the risk of re-identification be assessed? How can data be anonymized? What are easy steps to enhance procedural safety in the use of sensible data?\nProf Felix Schönbrodt will present new technological solutions that allow sharing sensible data (e.g. synthetic data, scientific use files, differential privacy).\nThe session contains both theoretical input and hands-on exercises in R."
   },
   {
     "objectID": "Lectures.html#tim-errington-investigating-the-replicability-of-cancer-research",
@@ -137,6 +144,13 @@
     "href": "Workshops.html",
     "title": "LMU Open Science Center Summer School 2023",
     "section": "",
+    "text": "Join"
+  },
+  {
+    "objectID": "Workshops.html#hybrid-networking",
+    "href": "Workshops.html#hybrid-networking",
+    "title": "LMU Open Science Center Summer School 2023",
+    "section": "Hybrid networking",
     "text": "Hybrid networking\nMonday 11 September, 13:15-14:15\nIn person and online participants will get to know each other in two rounds of speed-networking discussions in small groups, each with a 360 degrees camera-microphone."
   },
   {
@@ -144,49 +158,49 @@
     "href": "Workshops.html#r",
     "title": "LMU Open Science Center Summer School 2023",
     "section": "R",
-    "text": "R\nInstructors\nMonday 11 September, 14:30-16:30\nYou will learn the basics of the R programming language for data wrangling in the RStudio environment. Basic R knowledge is needed for the rest of the course."
+    "text": "R\nInstructors tbc\nMonday 11 September, 14:30-16:30\nYou will learn the basics of the R programming language for data wrangling in the RStudio environment. Basic R knowledge is needed for the rest of the course."
   },
   {
     "objectID": "Workshops.html#julia",
     "href": "Workshops.html#julia",
     "title": "LMU Open Science Center Summer School 2023",
     "section": "Julia",
-    "text": "Julia\nAaron Peikert, Maximilian Ernst, Moritz Ketzer   Monday 11 September, 14:30-16:30\nFor selected participants who already know the basics of R, there will be the opportunity to learn the basics of the Julia programming language through a facilitated self-paced tutorial. Depending on the number of attendees from the summer school planned for this workshop, we may open it to public registration (with priority to LMU members).\nA team from the Max Planck Institute for Human Development and Max Planck UCL Centre for Computational Psychiatry and Ageing Research in Berlin will instruct this workshop: Dr Aaron Peikert, post-doctoral fellow, Maximilian Ernst, student assistant, and Moritz Ketzer, PhD student."
+    "text": "Julia\nAaron Peikert, Maximilian Ernst, Moritz Ketzer\n  Monday 11 September, 14:30-16:30\nFor selected participants who already know the basics of R, there will be the opportunity to learn the basics of the Julia programming language through a facilitated self-paced tutorial. Depending on the number of attendees from the summer school planned for this workshop, we may open it to public registration (with priority to LMU members). If so, it will be advertised on the LMU Open Science Center mailing list.\nA team from the Max Planck Institute for Human Development and Max Planck UCL Centre for Computational Psychiatry and Ageing Research in Berlin will instruct this workshop: Dr Aaron Peikert, post-doctoral fellow, Maximilian Ernst, student assistant, and Moritz Ketzer, PhD student."
   },
   {
     "objectID": "Workshops.html#preregistration-why-not-how",
     "href": "Workshops.html#preregistration-why-not-how",
     "title": "LMU Open Science Center Summer School 2023",
     "section": "Preregistration: Why Not, How",
-    "text": "Preregistration: Why Not, How\nMalika Ihle\n Tuesday 12 September, 13:13-15:15\nIn this workshop, we will review what detailed information preregistrationz and registered reports should contain, and discuss collectively discuss the benefits and disadvantages of embracing such practices, as well as possible fear and concerns, in a structured academic debate. Finally, we will look into how to preregister in practice on the Open Science Framework, and practice the level of precision needed in each section of a preregistration template by peer-reviewing snippets of preregistrations."
+    "text": "Preregistration: Why Not, How\nMalika Ihle\n Tuesday 12 September, 13:13-15:15\nIn this workshop, we will review what detailed information preregistrations and registered reports should contain, and discuss collectively discuss the benefits and disadvantages of embracing such practices, as well as possible fear and concerns, in a structured academic debate. Finally, we will look into how to preregister in practice on the Open Science Framework, and practice the level of precision needed in each section of a preregistration template by peer-reviewing snippets."
   },
   {
     "objectID": "Workshops.html#simulations-of-data-and-data-analyses-in-r",
     "href": "Workshops.html#simulations-of-data-and-data-analyses-in-r",
     "title": "LMU Open Science Center Summer School 2023",
     "section": "Simulations of data and data analyses in R",
-    "text": "Simulations of data and data analyses in R\nMalika Ihle\n Tuesday 12 September, 15:30-17:30\nYou will be guided through the What, Why, and How of simulations of data and data analyses. We will follow this self-paced tutorial: https://malikaihle.github.io/Introduction-Simulations-in-R/. The material covers power analyses for simple tests, checking false positive rate, and how simulations can help with preparing a preregistration. Basic knowledge of the R syntax is needed."
+    "text": "Simulations of data and data analyses in R\nMalika Ihle\n Tuesday 12 September, 15:30-17:30\nYou will be guided through the What, Why, and How of simulations of data and data analyses. We will follow this self-paced tutorial: https://malikaihle.github.io/Introduction-Simulations-in-R/. The material covers the concept of power analyses for simple tests, how to check for false positive rates, and how simulations can help with preparing a preregistration. Basic knowledge of the R syntax is needed."
   },
   {
     "objectID": "Workshops.html#version-control-with-git-with-rstudio",
     "href": "Workshops.html#version-control-with-git-with-rstudio",
     "title": "LMU Open Science Center Summer School 2023",
     "section": "Version control with Git with RStudio",
-    "text": "Version control with Git with RStudio\nMalika Ihle, Felix Henninger, Pat Callahan\n  Wednesday 13 September, 13:15-16:15\nIn this facilitated self-paced tutorial, you will learn the basic concept of version control using RStudio as one of many possible GUI interfaces that can interact with Git. You will learn how to use version control for your own workflow (Git within RStudio with backup online on GitHub) and for collaborative coding (fork, clone, pull requests on Github). The self-paced tutorials can be found at: https://malikaihle.github.io/Introduction-RStudio-Git-GitHub/ and https://malikaihle.github.io/Collaborative-RStudio-GitHub/. The targeted audience are complete novices regarding version control or Git, but who use RStudio at least occasionally.\nDr Malika Ihle, LMU Open Science Center coordinator, Felix Henninger, PhD students in Statistics, and Pat Callahan, M.Sc. student in Epidemiology will co-facilitate this session."
+    "text": "Version control with Git with RStudio\nMalika Ihle, Felix Henninger, Pat Callahan\n  Wednesday 13 September, 13:15-16:15\nIn this facilitated self-paced tutorial, you will learn the basic concept of version control using RStudio as one of many possible GUI interfaces that can interact with Git. You will learn how to use version control for your own workflow (Git within RStudio with backup online on GitHub) and for collaborative coding (fork, clone, pull requests on Github). The self-paced tutorials can be found at: https://malikaihle.github.io/Introduction-RStudio-Git-GitHub/ and https://malikaihle.github.io/Collaborative-RStudio-GitHub/.\nDr Malika Ihle, LMU Open Science Center coordinator, Felix Henninger, PhD student in Statistics, and Pat Callahan, M.Sc. student in Epidemiology will co-facilitate this session."
   },
   {
     "objectID": "Workshops.html#research-data-management-plans",
     "href": "Workshops.html#research-data-management-plans",
     "title": "LMU Open Science Center Summer School 2023",
     "section": "Research Data Management plans",
-    "text": "Research Data Management plans\nLaura Meier Wednesday 13 September, 16:30-17:30\nThe planning of a research project and the management of one’s own data bring many advantages in everyday research. Laura Meier, from the RDM team of the LMU University Library, will present what to look for when creating a data management plan and how web-based tools such as the Research Data Management Organizer (RDMO) can be used to make work easier."
+    "text": "Research Data Management plans\nLaura Meier\nWednesday 13 September, 16:30-17:30\nThe planning of a research project and the management of one’s own data bring many advantages in everyday research. Laura Meier, from the RDM team of the LMU University Library, will present what to look for when creating a data management plan and how web-based tools such as the Research Data Management Organizer (RDMO) can be used to make work easier."
   },
   {
     "objectID": "Workshops.html#quarto",
     "href": "Workshops.html#quarto",
     "title": "LMU Open Science Center Summer School 2023",
     "section": "Quarto",
-    "text": "Quarto\nFlorian Pargent, Philipp Sckopke, Florian Kohrt, Lena Schiestel\n   Thursday 14 September, 13:15-15:15\nQuarto makes transparent and reproducible data analysis simple and fun. In a nutshell, Quarto lets you mix text written in markdown with chunks of executable code written in, e.g., R or Python. You can use it for interactive notebooks, and export to a large number of formats including HTML, PDF/LaTeX, Microsoft Word or PowerPoint, or even interactive websites. In this workshop, we cover the fundamentals, including the markdown syntax, code chunks and inline code, and the output formats available. We also go over citations, cross-referencing, and templating, which ultimately allow you to write academic papers entirely in Quarto.\nA team of LMU psychologists will instruct this session: Dr Florian Pargent, and Dr Philipp Sckopke will create the material, and B.Sc. Florian Kohrt and Dipl.-Psych Lena Schiestel M.A. will facilitatee the live session."
+    "text": "Quarto\nFlorian Pargent, Philipp Sckopke, Florian Kohrt, Lena Schiestel\n   Thursday 14 September, 13:15-15:15\nQuarto makes transparent and reproducible data analysis simple and fun. In a nutshell, Quarto lets you mix text written in markdown with chunks of executable code written in, e.g., R or Python. You can use it for interactive notebooks, and export to a large number of formats including HTML, PDF/LaTeX, Microsoft Word or PowerPoint, or even interactive websites. In this workshop, we cover the fundamentals, including the markdown syntax, code chunks and inline code, and the output formats available. We also go over citations, cross-referencing, and templating, which ultimately allow you to write academic papers entirely in Quarto.\nA team of LMU psychologists will instruct this session: Dr Florian Pargent, and Dr Philipp Sckopke will create the material, and B.Sc. Florian Kohrt and Dipl.-Psych Lena Schiestel M.A. will facilitate the live session."
   },
   {
     "objectID": "Workshops.html#whats-next-facilitated-group-discussion",
@@ -200,13 +214,13 @@
     "href": "Workshops.html#systematic-reviews",
     "title": "LMU Open Science Center Summer School 2023",
     "section": "Systematic reviews",
-    "text": "Systematic reviews\nSofija Vojvodic\n Friday 15 September, 13:15-15:15 [Sofija Vojvodic], Research Fellow of the Berlin Institute of Health, will present systematic review methods and how it can be applied broadly across different fields"
+    "text": "Systematic reviews\nSofija Vojvodic\n Friday 15 September, 13:15-15:15\nSofija Vojvodic, Research Fellow of the Berlin Institute of Health, will present systematic review methods and how it can be applied broadly across different fields."
   },
   {
     "objectID": "Workshops.html#how-to-use-the-open-science-framework",
     "href": "Workshops.html#how-to-use-the-open-science-framework",
     "title": "LMU Open Science Center Summer School 2023",
     "section": "How to use the Open Science Framework",
-    "text": "How to use the Open Science Framework\nMalika Ihle\n Friday 15 September, 15:30-17:30\nThrough a self-paced tutorial, you will learn to use the Open Science Framework infrastructure to centralise your research projects, connecting your regular tools to it (e.g. GitHub, GitLab, Google Drive, Dropbox, Zotero, etc.), exploring how to share and link your data, material, preregistration, and preprints to your published articles."
+    "text": "How to use the Open Science Framework\nMalika Ihle\n Friday 15 September, 15:30-17:30\nThrough a self-paced tutorial, you will learn to use the Open Science Framework infrastructure to centralise your research projects, connect your regular tools to it (e.g. GitHub, GitLab, Google Drive, Dropbox, Zotero, etc.), explore how to share and link your data, material, preregistration, and preprint to your published article."
   }
 ]
