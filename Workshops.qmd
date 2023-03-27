@@ -26,6 +26,15 @@ You will learn the basics of the R programming language for data wrangling in th
 ![](img/moritz-ketzer.png){width="100"} ![](img/aaron-peikert.png){width="100"} Monday 11 September, 14:30-16:30
 
 For selected participants who already know the basics of R, there will be the opportunity to learn the basics of the Julia programming language through a facilitated self-paced tutorial.
+Julia is a high-level dynamic programming language designed for numerical and scientific computing, data analysis, machine learning, and more.
+It is easy to learn and use, with a look and feel that is similar to R(/Python/Matlab), but designed with performance in mind.
+In fact, Julia can be orders of magnitude faster than R, which makes it a great choice for large-scale data analysis and other computationally intensive tasks.
+
+In this workshop, we will introduce you to the basics of Julia including the key features of the language, such as its type system, multiple dispatch, and built-in package manager.
+We will also compare Julia to R and show you how it can be used in conjunction with R to extend your programming capabilities.
+
+This workshop is designed for R users who are interested in learning a new programming language or want to improve their skills in data analysis and scientific computing. No prior experience with Julia is required, but a understanding of R is recommended.
+
 Depending on the number of attendees from the summer school planned for this workshop, we may open it to public registration (with priority to LMU members).
 If so, it will be advertised on the [LMU Open Science Center mailing list](https://lists.lrz.de/mailman/listinfo/lmu-osc).
 
