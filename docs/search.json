@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "LMU Open Science Center Summer School 2023",
     "section": "",
-    "text": "The LMU Open Science Center organises this hybrid open research summer school to allow early-career researchers to gain more trust in the research that they do, and make it as credible as it can be in the eyes of their peers, the public, and funding agencies.\nBy joining (or accessing the material after the school), you will learn how to:\n\nplan your statistical plans in advance of collecting data to prevent biases in analyses, with the help of preregistration and data simulation;\ncreate computationally reproducible workflows so you can be more efficient and spot mistakes in data wrangling or analyses, through programming, creating dynamic reports, and version controlling scripts;\nshare data, materials, codes, and articles appropriately (using Findable, Accessible, Interoperable, Reusable principles, sensible data anonymity, adequate repositories, licences) for your research to have more impact, and allow others to build upon or replicate your work;\nfollow guidelines to report results adequately and conduct systematic reviews\n\nMaterial: https://osf.io/nymr5/"
+    "text": "The LMU Open Science Center organises this hybrid open research summer school to allow early-career researchers to gain more trust in the research that they do, and make it as credible as it can be in the eyes of their peers, the public, and funding agencies.\nBy joining (or accessing the material after the school), you will learn how to:\n\nplan your statistical plans in advance of collecting data to prevent biases in analyses, with the help of preregistration and data simulation;\ncreate computationally reproducible workflows so you can be more efficient and spot mistakes in data wrangling or analyses, through programming, creating dynamic reports, and version controlling scripts;\nshare data, materials, codes, and articles appropriately (using Findable, Accessible, Interoperable, Reusable principles, sensible data anonymisation techniques, adequate repositories and licences) for your research to have more impact, by allowing others to build upon or replicate your work;\nfollow guidelines to report results adequately and conduct systematic reviews\n\nMaterial: https://osf.io/nymr5/"
   },
   {
     "objectID": "Join.html",
     "href": "Join.html",
     "title": "LMU Open Science Center Summer School 2023",
     "section": "",
-    "text": "To attend the whole school, i.e. both public lectures and workshops for selected applicants, in person or online, you must apply before 17 July 2023, 12:00 noon.\nApply here: #FIXME\nThe summer school is targetted at PhD students of all scientific disciplines (Medical sciences, Social Sciences, Life Sciences, etc. as opposed to research fields in the Humanities). Master students and early post docs are also welcome to apply. It will be held in a hybrid format and you will be able to choose your prefered mode of participation (online or in-person). By applying, we expect you to attend all sessions of the school (with exception possible).\nDuring the application process, you will be asked about your motivation and experience. We will prioritize novices with a clear ideas about where to integrate these news skills in their own research. At equal score, we will prioritize members of the LMU, and maximize the diversity of applicants background in terms of discipline, career stage, and gender.\nWe will not provide travel grants. The in-person part of the school will take place in UB der LMU - Fachbibliothek Philologicum, Ludwigstraße 25, 80539 München, Germany. The online part will be on Zoom."
+    "text": "To attend the whole school, i.e. both public lectures and workshops for selected applicants, in person or online, you must apply before 17 July 2023, 12:00 noon.\nApply here: #FIXME\nThe summer school is targeted at PhD students of all scientific disciplines (Medical sciences, Social Sciences, Life Sciences, etc. as opposed to research fields in the Humanities). Master students and early post docs are also welcome to apply. It will be held in a hybrid format and you will be able to choose your preferred mode of participation (online or in-person). By applying, we expect you to attend all sessions of the school (with exception possible).\nDuring the application process, you will be asked about your motivation and experience. We will prioritize novices with a clear ideas about where to integrate these news skills in their own research. At equal score, we will prioritize members of the LMU, and maximize the diversity of applicants background in terms of discipline, career stage, and gender.\nWe will not provide travel grants. The in-person part of the school will take place in UB der LMU - Fachbibliothek Philologicum, Ludwigstraße 25, 80539 München, Germany. The online part will be on Zoom."
   },
   {
-    "objectID": "Join.html#join-one-or-several-of-the-public-lectures",
-    "href": "Join.html#join-one-or-several-of-the-public-lectures",
+    "objectID": "Join.html#join-one-or-several-of-the-public-lectures-online",
+    "href": "Join.html#join-one-or-several-of-the-public-lectures-online",
     "title": "LMU Open Science Center Summer School 2023",
-    "section": "Join one or several of the public lectures",
-    "text": "Join one or several of the public lectures\nAnyone can register at any time before the end of the summer school to attend one, multiple, or all lectures online.\nRegister here: #FIXME"
+    "section": "Join one or several of the public lectures (online)",
+    "text": "Join one or several of the public lectures (online)\nAnyone can register at any time before the end of the summer school to attend one, multiple, or all lectures online.\nRegister here: #FIXME"
   },
   {
     "objectID": "Join.html#access-the-training-material-of-the-school",
@@ -222,12 +222,5 @@
     "title": "LMU Open Science Center Summer School 2023",
     "section": "How to use the Open Science Framework",
     "text": "How to use the Open Science Framework\nMalika Ihle\n Friday 15 September, 15:30-17:30\nThrough a self-paced tutorial, you will learn to use the Open Science Framework infrastructure to centralise your research projects, connect your regular tools to it (e.g. GitHub, GitLab, Google Drive, Dropbox, Zotero, etc.), explore how to share and link your data, material, preregistration, and preprint to your published article."
-  },
-  {
-    "objectID": "Join.html#join-one-or-several-of-the-public-lectures-online",
-    "href": "Join.html#join-one-or-several-of-the-public-lectures-online",
-    "title": "LMU Open Science Center Summer School 2023",
-    "section": "Join one or several of the public lectures (online)",
-    "text": "Join one or several of the public lectures (online)\nAnyone can register at any time before the end of the summer school to attend one, multiple, or all lectures online.\nRegister here: #FIXME"
   }
 ]
