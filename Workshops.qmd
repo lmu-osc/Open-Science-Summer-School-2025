@@ -16,10 +16,12 @@ Monday 11 September, 13:15-14:15
 In person and online participants will get to know each other in two rounds of speed-networking discussions in small groups, each with a 360 degrees camera-microphone.
 
 ## R
-**Instructors tbc**  
+**Nicklas Hafiz**  
 Monday 11 September, 14:30-16:30
 
 You will learn the basics of the R programming language for data wrangling in the RStudio environment. Basic R knowledge is needed for the rest of the course.
+
+M.Sc. [Nicklas Hafiz](https://www.iqb.hu-berlin.de/institut/staff/?pg=c135), researcher at the Institute for Quality Development in Education of the Humboldt University of Berlin will be your instructor.
 
 ## Julia
 **Aaron Peikert, Maximilian Ernst, Moritz Ketzer**  
