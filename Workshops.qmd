@@ -28,7 +28,7 @@ You will learn the basics of the R programming language for data wrangling in th
 For selected participants who already know the basics of R, there will be the opportunity to learn the basics of the Julia programming language through a facilitated self-paced tutorial.
 Julia is a high-level dynamic programming language designed for numerical and scientific computing, data analysis, machine learning, and more.
 It is easy to learn and use, with a look and feel that is similar to R(/Python/Matlab), but designed with performance in mind.
-In fact, Julia can be orders of magnitude faster than R, which makes it a great choice for large-scale data analysis and other computationally intensive tasks.
+Therefore, Julia is an ideal choice for large-scale data analysis and other computationally intensive tasks, as it can be orders of magnitude faster than R.
 
 In this workshop, we will introduce you to the basics of Julia including the key features of the language, such as its type system, multiple dispatch, and built-in package manager.
 We will also compare Julia to R and show you how it can be used in conjunction with R to extend your programming capabilities.
