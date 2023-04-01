@@ -31,7 +31,6 @@ It is easy to learn and use, with a look and feel that is similar to R(/Python/M
 Therefore, Julia is an ideal choice for large-scale data analysis and other computationally intensive tasks, as it can be orders of magnitude faster than R or Python.
 
 In this workshop, we will introduce you to the basics of Julia and the key features setting it apart from other languages.
-We will also compare Julia to R and show you how it can be used in conjunction with R to extend your programming capabilities.
 
 This workshop is designed for R users who are interested in learning a new programming language or want to improve their skills in data analysis and scientific computing. No prior experience with Julia is required, but a understanding of R is recommended.
 
