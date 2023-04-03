@@ -21,7 +21,7 @@ In person and online participants will get to know each other in two rounds of s
 
 You will learn the basics of the R programming language for data wrangling in the RStudio environment. **Basic R knowledge is needed for the rest of the course**.
 
-[Nicklas Hafiz](https://www.iqb.hu-berlin.de/institut/staff/?pg=c135) and Dr. [Karoline Sachse](https://www.iqb.hu-berlin.de/institut/staff/?pg=ks), researchers at the Institute for Quality Development in Education of the Humboldt University of Berlin, and [Felix Henninger](https://www.soda.statistik.uni-muenchen.de/people/employees/henninger/index.html), PhD student in Statistics at the LMU, will be your co-instructors.
+[Nicklas Hafiz](https://www.iqb.hu-berlin.de/institut/staff/?pg=c135) and Dr. [Karoline Sachse](https://www.iqb.hu-berlin.de/institut/staff/?pg=ks), researchers at the Institute for Quality Development in Education of the Humboldt University of Berlin, and [Felix Henninger](https://felixhenninger.com/), PhD student in Statistics at the LMU, will be your co-instructors.
 
 ## Julia
 **Aaron Peikert, Maximilian Ernst, Moritz Ketzer**  
@@ -49,7 +49,7 @@ You will be guided through the What, Why, and How of simulations of data and dat
 
 In this facilitated self-paced tutorial, you will learn the basic concept of version control using RStudio as one of many possible GUI interfaces that can interact with Git. You will learn how to use version control for your own workflow (Git within RStudio with backup online on GitHub) and for collaborative coding (fork, clone, pull requests on Github). The self-paced tutorials can be found at: [https://malikaihle.github.io/Introduction-RStudio-Git-GitHub/](https://malikaihle.github.io/Introduction-RStudio-Git-GitHub/) and [https://malikaihle.github.io/Collaborative-RStudio-GitHub/](https://malikaihle.github.io/Collaborative-RStudio-GitHub/).
 
-Dr [Malika Ihle](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html), LMU Open Science Center coordinator, [Felix Henninger](https://www.soda.statistik.uni-muenchen.de/people/employees/henninger/index.html), PhD student in Statistics, and Pat Callahan, M.Sc. student in Epidemiology will co-facilitate this session.
+Dr [Malika Ihle](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html), LMU Open Science Center coordinator, [Felix Henninger](https://felixhenninger.com/), PhD student in Statistics, and Pat Callahan, M.Sc. student in Epidemiology will co-facilitate this session.
 
 ## Research Data Management plans
 **Laura Meier**  
