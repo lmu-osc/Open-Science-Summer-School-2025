@@ -3,7 +3,11 @@ project:
   output-dir: docs
 
 website:
-  twitter-card: true
+  twitter-card: 
+    title: "LMU Open Science Center Summer School 2023"
+    description: "programme and application process for the hybryd open research summer school"
+    image: img/programmepreview.png
+    
   title: "LMU Open Science Center Summer School 2023"
   site-url: https://malikaihle.github.io/OSC-Open-Research-Summer-School-2023/ 
   repo-url: https://github.com/MalikaIhle/OSC-Open-Research-Summer-School-2023 
