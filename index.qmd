@@ -13,6 +13,6 @@ Material: <https://osf.io/nymr5/>
 
 ### Funding note
 
-The [LMU Open Science Center coordinator](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html), Dr Malika Ihle, organising the summer school, is funded by the **Frontier Fund of LMU Munich**. The summer school is funded by the **Fund for the Promotion of Teaching of LMU Munich**. The **LMU University Library** provides in-kind support.
+The [LMU Open Science Center coordinator](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html), Dr Malika Ihle, organising the summer school, is funded by the **Frontier Fund of LMU Munich**. The summer school is funded by the **Fund for the Promotion of Teaching of LMU Munich**. The **University Library** **of LMU Munich** provides in-kind support.
 
 ![](img/OSC-LMU-UB.png){fig-alt="OSC, LMU and UB logos" fig-align="center" width="500"}
