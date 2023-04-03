@@ -17,15 +17,15 @@ In person and online participants will get to know each other in two rounds of s
 
 ## R
 **Nicklas Hafiz, Karoline Sachse,  Felix Henninger**   
-![](img/felix-henninger.png){width="100"}![](img/karoline-sachse.png){width="100"} Monday 11 September, 14:30-16:30
+![](img/felix-henninger.png){width="100"}![](img/karoline-sachse.png){width="100"} Monday 11 September, 14:30-17:30
 
-You will learn the basics of the R programming language for data wrangling in the RStudio environment. Basic R knowledge is needed for the rest of the course.
+You will learn the basics of the R programming language for data wrangling in the RStudio environment. **Basic R knowledge is needed for the rest of the course**.
 
 [Nicklas Hafiz](https://www.iqb.hu-berlin.de/institut/staff/?pg=c135) and Dr. [Karoline Sachse](https://www.iqb.hu-berlin.de/institut/staff/?pg=ks), researchers at the Institute for Quality Development in Education of the Humboldt University of Berlin, and [Felix Henninger](https://www.soda.statistik.uni-muenchen.de/people/employees/henninger/index.html), PhD student in Statistics at the LMU, will be your co-instructors.
 
 ## Julia
 **Aaron Peikert, Maximilian Ernst, Moritz Ketzer**  
-![](img/moritz-ketzer.png){width="100"} ![](img/aaron-peikert.png){width="100"} Monday 11 September, 14:30-16:30
+![](img/moritz-ketzer.png){width="100"} ![](img/aaron-peikert.png){width="100"} Monday 11 September, 14:30-17:30
 
 For selected participants who already know the basics of R, there will be the opportunity to learn the basics of the Julia programming language through a facilitated self-paced tutorial. Depending on the number of attendees from the summer school planned for this workshop, we may open it to public registration (with priority to LMU members). If so, it will be advertised on the [LMU Open Science Center mailing list](https://lists.lrz.de/mailman/listinfo/lmu-osc).
 
