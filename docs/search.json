@@ -102,7 +102,7 @@
     "href": "Lectures.html#felix-schönbrodt-data-anonymity",
     "title": "LMU Open Science Center Summer School 2023",
     "section": "Felix Schönbrodt: Data anonymity",
-    "text": "Felix Schönbrodt: Data anonymity\n Thursday 14 September, 10:30-11:45\nWhich kinds of research data need to be protected? What are personal data? How can the risk of re-identification be assessed? How can data be anonymized? What are easy steps to enhance procedural safety in the use of sensible data?\nProf. Dr. Felix Schönbrodt will present new technological solutions that allow sharing sensible data (e.g. synthetic data, scientific use files, differential privacy).\nThe session contains both theoretical input and hands-on exercises in R."
+    "text": "Felix Schönbrodt: Data anonymity\n Thursday 14 September, 10:30-11:45\nWhich kinds of research data need to be protected? How can the risk of re-identification be assessed? How can data be anonymized? What are easy steps to enhance procedural safety in the use of sensible data?\nProf. Dr. Felix Schönbrodt will present solutions that allow sharing sensible data (e.g. different access levels, such as scientific use files) and how to make them anonymous. The session contains both theoretical input and a showcase how to do anonymization practically in R."
   },
   {
     "objectID": "Lectures.html#tim-errington-investigating-the-replicability-of-cancer-research",
