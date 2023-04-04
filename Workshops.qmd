@@ -21,7 +21,7 @@ In person and online participants will get to know each other in two rounds of s
 
 You will learn the basics of the R programming language for data wrangling in the RStudio environment. **Basic R knowledge is needed for the rest of the course**.
 
-[Nicklas Hafiz](https://www.iqb.hu-berlin.de/institut/staff/?pg=c135) and Dr. [Karoline Sachse](https://www.iqb.hu-berlin.de/institut/staff/?pg=ks), researchers at the Institute for Quality Development in Education of the Humboldt University of Berlin, and [Felix Henninger](https://felixhenninger.com/), PhD student in Statistics at the LMU, will be your co-instructors.
+[Nicklas Hafiz](https://www.iqb.hu-berlin.de/institut/staff/?pg=c135) (PhD student) and Dr. [Karoline Sachse](https://www.iqb.hu-berlin.de/institut/staff/?pg=ks), researchers at the Institute for Quality Development in Education of the Humboldt University of Berlin, and [Felix Henninger](https://felixhenninger.com/), PhD student in Statistics at the LMU, will be your co-instructors.
 
 ## Julia
 **Aaron Peikert, Maximilian Ernst, Moritz Ketzer**  
