@@ -14,7 +14,7 @@ All lectures are opened for public registration (see [Join](Join.qmd)).
 
 ![](img/felix-schoenbrodt.png){width="100"} Monday 11 September, 10:00-10:45
 
-Prof. Dr. [Felix Schönbrodt](https://www.osc.uni-muenchen.de/about_us/director/index.html), LMU Open Science Center managing director and Professor of Psychology at the LMU, will set the scene and present an overview of the replicability crisis across fields, and an introduction to open research initiatives.
+Prof. Dr. [Felix Schönbrodt](https://www.osc.uni-muenchen.de/about_us/director/index.html), LMU Open Science Center Managing Director and Professor of Psychology at the LMU, will set the scene and present an overview of the replicability crisis across fields, and an introduction to open research initiatives.
 
 ## Malika Ihle: Credible research
 
@@ -34,7 +34,7 @@ In his presentation, Prof. Dr. [Uli Dirnagl](https://expneuro.charite.de/en/meta
 
 ![](img/stephan-hartmann.png){width="100"} Tuesday 12 September, 10:00-10:45
 
-Prof. Dr. [Stephan Hartmann](http://www.stephanhartmann.org/), Professor of Philosophy at the LMU, and Co-Director of the Munich Center for Mathematical Philosophy (MCMP), will present his thoughts on scientific reasoning, and argue that good arguments and good inferences are characterized by their effect on our rational degrees of belief. Refuting the view that there is no place for subjective attitudes in 'objective science', he will explain the value of convincing evidence in terms of a cycle of variations on the theme of representing rational degrees of belief by means of subjective probabilities (and changing them by Bayesian conditionalization). We will then discuss reforms of research methodology, which the open research movement proposes, in the context of such scientific reasoning.
+Prof. Dr. [Stephan Hartmann](http://www.stephanhartmann.org/), Professor of Philosophy at LMU and Co-Director of the Munich Center for Mathematical Philosophy (MCMP), presents Bayesianism, a powerful framework for modeling rational beliefs and their change over time. Building on the concept of subjective probability, this framework is particularly well suited to analyzing scientific reasoning and argumentation and identifying its subjective and objective elements. The talk concludes with some reflections on the implications for possible reforms in research methodology as proposed by the open research movement.
 
 ## Tony Ross-Hellauer: Open = Inclusive and Equitable?
 
@@ -96,7 +96,7 @@ Dr. [Tim Errington](https://osf.io/alh38/), Senior Director of Research at Cente
 
 Dr. [Raphael Ritz](https://www.rd-alliance.org/users/raphael), Head of Data Division at the Max Planck Computing and Data Facility, will present FAIR principles, FAIR cookbook, and examples of ontologies for data and software.
 
-## Dennis Kenji Kipker: Research Copyrights
+## Dennis Kenji Kipker: Research copyrights
 
 ![](img/dennis-kenji-kipker.png){width="100"} Friday 15 September, 11:00-11:45
 
