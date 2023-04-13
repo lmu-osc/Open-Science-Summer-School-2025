@@ -40,7 +40,7 @@ Prof. Dr. [Stephan Hartmann](http://www.stephanhartmann.org/), Professor of Phil
 
 ![](img/tony-ross-hellauer.png){width="100"} Tuesday 12 September, 11:00-11:45
 
-[Tony Ross-Hellauer](https://tonyr-h.github.io/) Leader of the Open and Reproducible Research Group, Graz University of Technology and Know-Center, Austria, will discuss why equity should be included as an explicit consideration in the policies, reforms, and support mechanisms driving the transition to Open Science.
+Dr. [Tony Ross-Hellauer](https://tonyr-h.github.io/) Leader of the Open and Reproducible Research Group, Graz University of Technology and Know-Center, Austria, will discuss why equity should be included as an explicit consideration in the policies, reforms, and support mechanisms driving the transition to Open Science.
 
 ## Richard McElreath: Science as amateur software development
 
