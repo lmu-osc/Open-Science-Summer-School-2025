@@ -45,7 +45,7 @@ Dr. [Aaron Peikert](https://www.mpib-berlin.mpg.de/person/103737/2549), post-doc
 [Maximilian Ernst](https://www.mpib-berlin.mpg.de/staff/maximilian-ernst), PhD student, and
 [Moritz Ketzer](https://www.mps-ucl-centre.mpg.de/people/126423), PhD student.
 
-## Preregistration: Why Not, How
+## Preregistration: why not, how
 **Malika Ihle**  
 ![](img/malika-ihle.png){width="100"} Tuesday 12 September, 13:13-15:15
 
@@ -65,11 +65,12 @@ In this facilitated self-paced tutorial, you will learn the basic concept of ver
 
 Dr [Malika Ihle](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html), LMU Open Science Center coordinator, [Felix Henninger](https://felixhenninger.com/), PhD student in Statistics, and Pat Callahan, M.Sc. student in Epidemiology will co-facilitate this session.
 
-## Research Data Management plans
+## Research Data Management (RDM) plans
 **Laura Meier**  
-Wednesday 13 September, 16:30-17:30
+![](img/laura-meier.png){width="100"}Wednesday 13 September, 16:30-17:30
 
-The planning of a research project and the management of one's own data bring many advantages in everyday research. [Laura Meier](https://www.ub.uni-muenchen.de/ueber-die-ub/kontakt/personen/meier-l/index.html), from the RDM team of the LMU University Library, will present what to look for when creating a data management plan and how web-based tools such as the Research Data Management Organizer (RDMO) can be used to make work easier.
+The planning of a research project and the management of one’s own data bring many advantages in everyday research. [Laura Meier](https://www.ub.uni-muenchen.de/ueber-die-ub/kontakt/personen/meier-l/index.html), from the RDM information team of University Library of LMU Munich, will present what to look for when creating a data management plan and how web-based tools such as the Research Data Management Organiser (RDMO) can be used to make work easier.
+
 
 ## Quarto
 **Florian Pargent, Philipp Sckopke, Florian Kohrt, Lena Schiestel**  
@@ -91,7 +92,7 @@ Dr [Verena Heise](https://vheise.com/), Open Science Freelancer, will facilitate
 ![](img/sofija-vojvodic.png){width="100"} Friday 15 September, 13:15-15:15  
 Sofija Vojvodic, Research Fellow of the Berlin Institute of Health, will present systematic review methods and how it can be applied broadly across different fields.
 
-## How to use the Open Science Framework
+## How to use the Open Science Framework (OSF)
 **Malika Ihle**  
 ![](img/malika-ihle.png){width="100"} Friday 15 September, 15:30-17:30  
 

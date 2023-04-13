@@ -171,8 +171,8 @@
     "objectID": "Workshops.html#preregistration-why-not-how",
     "href": "Workshops.html#preregistration-why-not-how",
     "title": "LMU Open Science Center Summer School 2023",
-    "section": "Preregistration: Why Not, How",
-    "text": "Preregistration: Why Not, How\nMalika Ihle\n Tuesday 12 September, 13:13-15:15\nIn this workshop, we will review what detailed information preregistrations and registered reports should contain, and discuss collectively discuss the benefits and disadvantages of embracing such practices, as well as possible fear and concerns, in a structured academic debate. Finally, we will look into how to preregister in practice on the Open Science Framework, and practice the level of precision needed in each section of a preregistration template by peer-reviewing snippets."
+    "section": "Preregistration: why not, how",
+    "text": "Preregistration: why not, how\nMalika Ihle\n Tuesday 12 September, 13:13-15:15\nIn this workshop, we will review what detailed information preregistrations and registered reports should contain, and discuss collectively discuss the benefits and disadvantages of embracing such practices, as well as possible fear and concerns, in a structured academic debate. Finally, we will look into how to preregister in practice on the Open Science Framework, and practice the level of precision needed in each section of a preregistration template by peer-reviewing snippets."
   },
   {
     "objectID": "Workshops.html#simulations-of-data-and-data-analyses-in-r",
@@ -189,11 +189,11 @@
     "text": "Version control with Git with RStudio\nMalika Ihle, Felix Henninger, Pat Callahan\n  Wednesday 13 September, 13:15-16:15\nIn this facilitated self-paced tutorial, you will learn the basic concept of version control using RStudio as one of many possible GUI interfaces that can interact with Git. You will learn how to use version control for your own workflow (Git within RStudio with backup online on GitHub) and for collaborative coding (fork, clone, pull requests on Github). The self-paced tutorials can be found at: https://malikaihle.github.io/Introduction-RStudio-Git-GitHub/ and https://malikaihle.github.io/Collaborative-RStudio-GitHub/.\nDr Malika Ihle, LMU Open Science Center coordinator, Felix Henninger, PhD student in Statistics, and Pat Callahan, M.Sc. student in Epidemiology will co-facilitate this session."
   },
   {
-    "objectID": "Workshops.html#research-data-management-plans",
-    "href": "Workshops.html#research-data-management-plans",
+    "objectID": "Workshops.html#research-data-management-rdm-plans",
+    "href": "Workshops.html#research-data-management-rdm-plans",
     "title": "LMU Open Science Center Summer School 2023",
-    "section": "Research Data Management plans",
-    "text": "Research Data Management plans\nLaura Meier\nWednesday 13 September, 16:30-17:30\nThe planning of a research project and the management of one’s own data bring many advantages in everyday research. Laura Meier, from the RDM team of the LMU University Library, will present what to look for when creating a data management plan and how web-based tools such as the Research Data Management Organizer (RDMO) can be used to make work easier."
+    "section": "Research Data Management (RDM) plans",
+    "text": "Research Data Management (RDM) plans\nLaura Meier\nWednesday 13 September, 16:30-17:30\nThe planning of a research project and the management of one’s own data bring many advantages in everyday research. Laura Meier, from the RDM information team of University Library of LMU Munich, will present what to look for when creating a data management plan and how web-based tools such as the Research Data Management Organiser (RDMO) can be used to make work easier."
   },
   {
     "objectID": "Workshops.html#quarto",
@@ -217,10 +217,10 @@
     "text": "Systematic reviews\nSofija Vojvodic\n Friday 15 September, 13:15-15:15\nSofija Vojvodic, Research Fellow of the Berlin Institute of Health, will present systematic review methods and how it can be applied broadly across different fields."
   },
   {
-    "objectID": "Workshops.html#how-to-use-the-open-science-framework",
-    "href": "Workshops.html#how-to-use-the-open-science-framework",
+    "objectID": "Workshops.html#how-to-use-the-open-science-framework-osf",
+    "href": "Workshops.html#how-to-use-the-open-science-framework-osf",
     "title": "LMU Open Science Center Summer School 2023",
-    "section": "How to use the Open Science Framework",
-    "text": "How to use the Open Science Framework\nMalika Ihle\n Friday 15 September, 15:30-17:30\nThrough a self-paced tutorial, you will learn to use the Open Science Framework infrastructure to centralise your research projects, connect your regular tools to it (e.g. GitHub, GitLab, Google Drive, Dropbox, Zotero, etc.), explore how to share and link your data, material, preregistration, and preprint to your published article."
+    "section": "How to use the Open Science Framework (OSF)",
+    "text": "How to use the Open Science Framework (OSF)\nMalika Ihle\n Friday 15 September, 15:30-17:30\nThrough a self-paced tutorial, you will learn to use the Open Science Framework infrastructure to centralise your research projects, connect your regular tools to it (e.g. GitHub, GitLab, Google Drive, Dropbox, Zotero, etc.), explore how to share and link your data, material, preregistration, and preprint to your published article."
   }
 ]
