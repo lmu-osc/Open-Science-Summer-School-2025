@@ -90,6 +90,7 @@ Dr [Verena Heise](https://vheise.com/), Open Science Freelancer, will facilitate
 ## Systematic reviews
 **Sofija Vojvodic**  
 ![](img/sofija-vojvodic.png){width="100"} Friday 15 September, 13:15-15:15  
+
 Sofija Vojvodic, Research Fellow of the Berlin Institute of Health, will present systematic review methods and how it can be applied broadly across different fields.
 
 ## How to use the Open Science Framework (OSF)
