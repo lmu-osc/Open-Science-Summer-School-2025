@@ -40,7 +40,7 @@ This workshop is designed for R users who are interested in learning a new progr
 Depending on the number of attendees from the summer school planned for this workshop, we may open it to public registration (with priority to LMU members).
 If so, it will be advertised on the [LMU Open Science Center mailing list](https://lists.lrz.de/mailman/listinfo/lmu-osc).
 
-A team from the Max Planck Institute for Human Development and Max Planck UCL Centre for Computational Psychiatry and Ageing Research in Berlin will instruct this workshop:
+A team from the Max Planck Institute for Human Development, the Max Planck School of Cognition, and the Max Planck UCL Centre for Computational Psychiatry and Ageing Research will instruct this workshop:
 Dr. [Aaron Peikert](https://www.mpib-berlin.mpg.de/person/103737/2549), post-doctoral fellow,
 [Maximilian Ernst](https://www.mpib-berlin.mpg.de/staff/maximilian-ernst), PhD student, and
 [Moritz Ketzer](https://www.mps-ucl-centre.mpg.de/people/126423), PhD student.
