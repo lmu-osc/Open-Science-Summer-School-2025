@@ -77,7 +77,7 @@ Prof. Dr. [Felix Schönbrodt](https://www.osc.uni-muenchen.de/about_us/director/
 
 ## Tim Errington: Investigating the replicability of cancer research
 
-![](img/tim-errington.png){width="100"} Thursday 14 September, 15:30-16:30
+![](img/tim-errington.png){width="100"} Thursday 14 September, 15:30-16:15
 
 Replicability is an important feature of scientific research, but aspects of contemporary research culture, such as an emphasis on novelty, can make replicability seem less important than it should be. The Reproducibility Project: Cancer Biology was set up to provide evidence about the replicability of preclinical research in cancer biology by repeating selected experiments from high-impact papers. A total of 50 experiments from 23 papers were repeated, generating data about the replicability of a total of 158 effects.
 
