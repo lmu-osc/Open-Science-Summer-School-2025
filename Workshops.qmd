@@ -78,7 +78,7 @@ The planning of a research project and the management of one’s own data bring 
 
 Quarto makes transparent and reproducible data analysis simple and fun. In a nutshell, Quarto lets you mix text written in markdown with chunks of executable code written in, e.g., R or Python. You can use it for interactive notebooks, and export to a large number of formats including HTML, PDF/LaTeX, Microsoft Word or PowerPoint, or even interactive websites. In this workshop, we cover the fundamentals, including the markdown syntax, code chunks and inline code, and the output formats available. We also go over citations, cross-referencing, and templating, which ultimately allow you to write academic papers entirely in Quarto.
 
-A team of LMU psychologists will instruct this session: Dr [Florian Pargent](https://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/pargent/index.html), and Dr [Philipp Sckopke](https://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/sckopke/index.html) will create the material, and B.Sc. [Florian Kohrt](https://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/kohrt_florian/index.html) and Dipl.-Psych [Lena Schiestel](https://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/schiestel/index.html) M.A. will facilitate the live session.
+LMU psychologists Dr [Florian Pargent](https://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/pargent/index.html) and B.Sc. [Florian Kohrt](https://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/kohrt_florian/index.html) will facilitate this workshop.
 
 
 ## What’s next? Facilitated group discussion
