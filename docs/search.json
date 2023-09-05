@@ -229,5 +229,12 @@
     "title": "LMU Open Science Center Summer School 2023",
     "section": "How to use the Open Science Framework (OSF)",
     "text": "How to use the Open Science Framework (OSF)\nMalika Ihle\n Friday 15 September, 15:30-17:30\nThrough a self-paced tutorial, you will learn to use the Open Science Framework infrastructure to centralise your research projects, connect your regular tools to it (e.g. GitHub, GitLab, Google Drive, Dropbox, Zotero, etc.), explore how to share and link your data, material, preregistration, and preprint to your published article."
+  },
+  {
+    "objectID": "Lectures.html#joachim-wuttke-making-research-software-sustainable",
+    "href": "Lectures.html#joachim-wuttke-making-research-software-sustainable",
+    "title": "LMU Open Science Center Summer School 2023",
+    "section": "Joachim Wuttke: Making research software sustainable",
+    "text": "Joachim Wuttke: Making research software sustainable\n Wednesday 13 September, 10:00-10:45\nP.D. Dr. Joachim Wuttke, Group Leader of Scientific Computing, Jülich Centre for Neutron Science, Garching, will present guidelines for collaborative development of sustainable data treatment software (https://doi.org/10.3233/JNR-220002). In software engineering, there is a common saying that “code is read by humans more than it is executed by computers”. Whether this is exactly true or not, one message remains: readability counts. This is even more so in research, as code is often the only available detailed description of the computational experiments of data analyses underlying your research. This lecture will cover simple techniques to make your codes easier to read - by yourself, your colleagues or your peers reproducing your research."
   }
 ]

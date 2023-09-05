@@ -50,7 +50,7 @@ Science is one of humanity's greatest inventions. Academia, on the other hand, i
 
 Prof. Dr. [Richard McElreath](https://www.eva.mpg.de/ecology/staff/richard-mcelreath/), Director of the Department of Human Behavior, Ecology, and Culture at the Max Planck Institute for Evolutionary Anthropology, Leipzig, will playfully ask how software development can become even more useful by transferring some aspects of its professionalism, the day-to-day tracking and back-tracking and testing that is especially part of distributed, open-source software development. Science, after all, aspires to be distributed, open-source knowledge development.
 
-## Joachim Wuttke: Simple techniques for writing readable code
+## Joachim Wuttke: Making research software sustainable
 
 ![](img/joachim-wuttke.png){width="100"} Wednesday 13 September, 10:00-10:45
 
