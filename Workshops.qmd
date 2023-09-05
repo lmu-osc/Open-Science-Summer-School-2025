@@ -73,8 +73,8 @@ The planning of a research project and the management of one’s own data bring 
 
 
 ## Quarto
-**Florian Pargent, Philipp Sckopke, Florian Kohrt, Lena Schiestel**  
-![](img/lena-schiestel.png){width="100"} ![](img/florian-kohrt.png){width="100"} ![](img/philipp-sckopke.png){width="100"} ![](img/florian-pargent.png){width="100"} Thursday 14 September, 13:15-15:15
+**Florian Pargent, Florian Kohrt**  
+![](img/florian-kohrt.png){width="100"} ![](img/florian-pargent.png){width="100"} Thursday 14 September, 13:15-15:15
 
 Quarto makes transparent and reproducible data analysis simple and fun. In a nutshell, Quarto lets you mix text written in markdown with chunks of executable code written in, e.g., R or Python. You can use it for interactive notebooks, and export to a large number of formats including HTML, PDF/LaTeX, Microsoft Word or PowerPoint, or even interactive websites. In this workshop, we cover the fundamentals, including the markdown syntax, code chunks and inline code, and the output formats available. We also go over citations, cross-referencing, and templating, which ultimately allow you to write academic papers entirely in Quarto.
 
