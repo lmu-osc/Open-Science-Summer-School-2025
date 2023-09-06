@@ -47,7 +47,7 @@ Dr. [Aaron Peikert](https://www.mpib-berlin.mpg.de/person/103737/2549), post-doc
 [Maximilian Ernst](https://www.mpib-berlin.mpg.de/staff/maximilian-ernst), PhD student, and
 [Moritz Ketzer](https://www.mps-ucl-centre.mpg.de/people/126423), PhD student.
 
-The self-paced tutorial for this workshop can be found here: [https://formal-methods-mpi.github.io/Workshop.jl/stable/](https://formal-methods-mpi.github.io/Workshop.jl/stable/)
+The self-paced tutorial for this workshop can be found here: [https://formal-methods-mpi.github.io/Workshop.jl/stable/](https://formal-methods-mpi.github.io/Workshop.jl/stable/) 
 
 ## Preregistration: why not, how
 **Malika Ihle**  
