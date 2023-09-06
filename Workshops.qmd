@@ -23,6 +23,8 @@ You will learn the basics of the R programming language for data wrangling in th
 
 [Nicklas Hafiz](https://www.iqb.hu-berlin.de/institut/staff/?pg=c135) (PhD student) and Dr. [Karoline Sachse](https://www.iqb.hu-berlin.de/institut/staff/?pg=ks), researchers at the Institute for Educational Quality Improvement of the Humboldt University of Berlin, and [Felix Henninger](https://felixhenninger.com/), PhD student in Statistics at the LMU, will be your co-instructors.
 
+The self-paced tutorial for this workshop can be found here: [https://nickhaf.github.io/r_tutorial/](https://nickhaf.github.io/r_tutorial/)
+
 ## Julia - A fresh approach to scientific computing
 **Aaron Peikert, Maximilian Ernst, Moritz Ketzer**  
 ![](img/moritz-ketzer.png){width="100"}![](img/maximilian-ernst.png){width="100"}![](img/aaron-peikert.png){width="100"} Monday 11 September, 14:30-17:30
@@ -44,6 +46,8 @@ A team from the Max Planck Institute for Human Development, the Max Planck Schoo
 Dr. [Aaron Peikert](https://www.mpib-berlin.mpg.de/person/103737/2549), post-doctoral fellow,
 [Maximilian Ernst](https://www.mpib-berlin.mpg.de/staff/maximilian-ernst), PhD student, and
 [Moritz Ketzer](https://www.mps-ucl-centre.mpg.de/people/126423), PhD student.
+
+The self-paced tutorial for this workshop can be found here: [https://formal-methods-mpi.github.io/Workshop.jl/stable/](https://formal-methods-mpi.github.io/Workshop.jl/stable/)
 
 ## Preregistration: why not, how
 **Malika Ihle**  
@@ -80,6 +84,7 @@ Quarto makes transparent and reproducible data analysis simple and fun. In a nut
 
 LMU psychologists Dr [Florian Pargent](https://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/pargent/index.html) and B.Sc. [Florian Kohrt](https://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/kohrt_florian/index.html) will facilitate this workshop.
 
+The self-paced tutorial for this workshop can be found here: [https://florianpargent.github.io/Quarto_LMU_OSC/](https://florianpargent.github.io/Quarto_LMU_OSC/)
 
 ## What’s next? Facilitated group discussion
 **Verena Heise**  
