@@ -1,1 +1,1 @@
-Sitemap: https://malikaihle.github.io/OSC-Open-Research-Summer-School-2023/sitemap.xml
+Sitemap: https://lmu-osc.github.io/OSC-Open-Research-Summer-School-2023/sitemap.xml

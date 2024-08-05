@@ -11,8 +11,8 @@ website:
   search: false
     
   title: "LMU Open Science Center Summer School 2023"
-  site-url: https://malikaihle.github.io/OSC-Open-Research-Summer-School-2023/ 
-  repo-url: https://github.com/MalikaIhle/OSC-Open-Research-Summer-School-2023 
+  site-url: https://lmu-osc.github.io/OSC-Open-Research-Summer-School-2023/ 
+  repo-url: https://github.com/lmu-osc/OSC-Open-Research-Summer-School-2023 
   navbar:
     left:
       - href: index.qmd
