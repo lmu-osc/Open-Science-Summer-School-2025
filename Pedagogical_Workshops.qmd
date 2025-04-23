@@ -1,0 +1,28 @@
+```{=html}
+<head>
+  <style>
+    img {
+      float: right;
+      margin: 13px;
+    }
+  </style>
+</head
+```
+Workshops are for selected applicants only (see [Join](Join.qmd)).  
+
+## Didactics 101
+**Sarah von Grebmer**   
+![](img/sarah-von-grebmer.png){width="100"} Friday 19 September, 14:30-15:30
+
+
+ADD abstract.
+
+## Activation methods
+**Sarah von Grebmer**   
+![](img/sarah-von-grebmer.png){width="100"} Friday 19 September, 15:30-16:30
+
+ADD abstract.
+
+## Leadership skills
+**Sarah von Grebmer**   
+![](img/sarah-von-grebmer.png){width="100"} Friday 19 September, 16:30-17:30

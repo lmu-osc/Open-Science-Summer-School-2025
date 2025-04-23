@@ -12,7 +12,7 @@ All lectures are opened for public registration (see [Join](Join.qmd)).
 
 ## Felix Schönbrodt: Replicability crisis
 
-![](img/felix-schoenbrodt.png){width="100"} Monday 11 September, 10:00-10:45
+![](img/felix-schoenbrodt.png){width="100"} Monday 15 September, 09:45-10:45
 
 Prof. Dr. [Felix Schönbrodt](https://www.osc.uni-muenchen.de/about_us/director/index.html), LMU Open Science Center Managing Director and Professor of Psychology at the LMU, will set the scene and present an overview of the replicability crisis across fields, and an introduction to open research initiatives.
 
@@ -22,58 +22,32 @@ Prof. Dr. [Felix Schönbrodt](https://www.osc.uni-muenchen.de/about_us/director/
 
 Dr. [Malika Ihle](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html), LMU Open Science Center coordinator, will give an overview of open research practices and will introduce the workshops of this summer school. She will argue that to make your research the most credible and the most likely to replicate, you can engage with preregistration, to increase the reliability of the research, and with a finite set of computing tools, to increase the reproducibility of your workflow.
 
-## Uli Dirnagl: Reducing waste and increasing value of biomedical research
+## Felix Schönbrodt: Data sharing
 
-![](img/uli-dirnagl.png){width="100"} Tuesday 12 September, 9:00-9:45
+![](img/felix-schoenbrodt.png){width="100"} Tuesday 16 September, 9:00-09:45  
+Prof. Dr. [Felix Schönbrodt](https://www.osc.uni-muenchen.de/about_us/director/index.html) will explain why we should share data and the fundamental of data sharing practicalities. 
 
-Recent advances in biomedical research provide innumerable opportunities to develop novel preventive and therapeutic strategies. However, only a small fraction of biomedical discoveries are successfully translated into clinical applications. Potential 'breakthrough' therapies, which are spectacularly successful in animal models of disease, often fail in clinical trials. This translational bottleneck imposes burdens on research and healthcare systems, as well as patients who participate in trials of novel strategies. The high attrition rate of preclinical to clinical development may directly relate to concerns about the reliability and reproducibility of biomedical research. Apparently there are substantial weaknesses in planning, conducting, analysing, and reporting this research. Low internal and external validity as well as low statistical power in particular of preclinical research appears to produce a very high rate of false positives, and inflates effect sizes unrealistically. Not surprisingly then, the majority of scientists believe that we are in the midst of a 'reproducibility crisis'. The immense proliferation in research outputs, combined with increasing methodological complexity and the size of data sets, greatly complicates the sharing, evaluation, and synthesis of high quality evidence. At the same time, nonpublication of results leads to duplicative research and deprives medical decision-makers of the totality of evidence. But how can we overcome this crisis?
-
-In his presentation, Prof. Dr. [Uli Dirnagl](https://expneuro.charite.de/en/metas/person_detail/person/address_detail/prof_dr_ulrich_dirnagl-1/), Head of Department of Experimental Neurology at the Charité in Berlin, Co-founder and Director of the Center for Stroke Research Berlin, and Founding Director of the QUEST Center for Responsible Research at the Berlin Institute of Health, will present a set of behaviours, activities and research practices which present prime targets for improvement.
-
-## Stephan Hartmann: Bayesian philosophy of science
-
-![](img/stephan-hartmann.png){width="100"} Tuesday 12 September, 10:00-10:45
-
-Prof. Dr. [Stephan Hartmann](http://www.stephanhartmann.org/), Professor of Philosophy at LMU and Co-Director of the Munich Center for Mathematical Philosophy (MCMP), presents Bayesianism, a powerful framework for modeling rational beliefs and their change over time. Building on the concept of subjective probability, this framework is particularly well suited to analyzing scientific reasoning and argumentation and identifying its subjective and objective elements. The talk concludes with some reflections on the implications for possible reforms in research methodology as proposed by the open research movement.
-
-## Tony Ross-Hellauer: Open = inclusive and equitable?
-
-![](img/tony-ross-hellauer.png){width="100"} Tuesday 12 September, 11:00-11:45
-
-Dr. [Tony Ross-Hellauer](https://tonyr-h.github.io/) Leader of the Open and Reproducible Research Group, Graz University of Technology and Know-Center, Austria, will discuss why equity should be included as an explicit consideration in the policies, reforms, and support mechanisms driving the transition to Open Science.
 
 ## Richard McElreath: Science as amateur software development
 
-![](img/richard-mcelreath.png){width="100"} Wednesday 13 September, 9:00-9:45
+![](img/richard-mcelreath.png){width="100"} Wednesday 17 September, 9:00-10:00
 
 Science is one of humanity's greatest inventions. Academia, on the other hand, is not. It is remarkable how successful science has been, given the often chaotic habits of scientists. In contrast to other fields, like say landscaping or software engineering, science as a profession is largely \*unprofessional\*---apprentice scientists are taught less about how to work responsibly than about how to earn promotions. This results in ubiquitous and costly errors. Software development has become indispensable to scientific work.
 
 Prof. Dr. [Richard McElreath](https://www.eva.mpg.de/ecology/staff/richard-mcelreath/), Director of the Department of Human Behavior, Ecology, and Culture at the Max Planck Institute for Evolutionary Anthropology, Leipzig, will playfully ask how software development can become even more useful by transferring some aspects of its professionalism, the day-to-day tracking and back-tracking and testing that is especially part of distributed, open-source software development. Science, after all, aspires to be distributed, open-source knowledge development.
 
-## Joachim Wuttke: Making research software sustainable
-
-![](img/joachim-wuttke.png){width="100"} Wednesday 13 September, 10:00-10:45
-
-P.D. Dr. [Joachim Wuttke](https://www.fz-juelich.de/profile/wuttke_j), Group Leader of Scientific Computing, Jülich Centre for Neutron Science, Garching, will present guidelines for collaborative development of sustainable data treatment software (<https://doi.org/10.3233/JNR-220002>). In software engineering, there is a common saying that "code is read by humans more than it is executed by computers". Whether this is exactly true or not, one message remains: readability counts. This is even more so in research, as code is often the only available detailed description of the computational experiments of data analyses underlying your research. This lecture will cover simple techniques to make your codes easier to read - by yourself, your colleagues or your peers reproducing your research.
-
 ## Felix Schönbrodt: Open access, preprints, postprints
 
-![](img/felix-schoenbrodt.png){width="100"} Wednesday 13 September, 11:00-11:45  
+![](img/felix-schoenbrodt.png){width="100"} Wednesday 17 September, 10:15-11:45  
 
 Prof. Dr. [Felix Schönbrodt](https://www.osc.uni-muenchen.de/about_us/director/index.html) will explain the different shades of Open Access (e.g. green, gold, diamond) and their advantages, and show what different ways there are to make your own publications freely accessible. He will also go into the business models of scientific publishers and take a critical look at their increasing activities as data analysis companies.
 
-## Felix Schönbrodt: Data sharing
+## Vera Karlbauer: Readble code
 
-![](img/felix-schoenbrodt.png){width="100"} Thursday 14 September, 9:00-10:15  
-Prof. Dr. [Felix Schönbrodt](https://www.osc.uni-muenchen.de/about_us/director/index.html) will explain why we should share data and the fundamental of data sharing practicalities. 
+![](img/sarah-von-grebmer.png){width="100"} Thursday 18 September, 09:00-09:45
 
-## Felix Schönbrodt: Data anonymity
+P.D. Dr. [Joachim Wuttke](https://www.fz-juelich.de/profile/wuttke_j), Group Leader of Scientific Computing, Jülich Centre for Neutron Science, Garching, will present guidelines for collaborative development of sustainable data treatment software (<https://doi.org/10.3233/JNR-220002>). In software engineering, there is a common saying that "code is read by humans more than it is executed by computers". Whether this is exactly true or not, one message remains: readability counts. This is even more so in research, as code is often the only available detailed description of the computational experiments of data analyses underlying your research. This lecture will cover simple techniques to make your codes easier to read - by yourself, your colleagues or your peers reproducing your research.
 
-![](img/felix-schoenbrodt.png){width="100"} Thursday 14 September, 10:30-11:45
-
-Which kinds of research data need to be protected? How can the risk of re-identification be assessed? How can data be anonymized? What are easy steps to enhance procedural safety in the use of sensible data?
-
-Prof. Dr. [Felix Schönbrodt](https://www.osc.uni-muenchen.de/about_us/director/index.html) will present solutions that allow sharing sensible data (e.g. different access levels, such as scientific use files) and how to make them anonymous. The session contains both theoretical input and a showcase how to do anonymization practically in R.
 
 ## Tim Errington: Investigating the replicability of cancer research
 
@@ -82,22 +56,3 @@ Prof. Dr. [Felix Schönbrodt](https://www.osc.uni-muenchen.de/about_us/director/
 Replicability is an important feature of scientific research, but aspects of contemporary research culture, such as an emphasis on novelty, can make replicability seem less important than it should be. The Reproducibility Project: Cancer Biology was set up to provide evidence about the replicability of preclinical research in cancer biology by repeating selected experiments from high-impact papers. A total of 50 experiments from 23 papers were repeated, generating data about the replicability of a total of 158 effects.
 
 Dr. [Tim Errington](https://osf.io/alh38/), Senior Director of Research at Center for Open Science, will present and discuss the results and implications of this large replication project.
-
-## Valérie Labonté: Reporting guidelines
-
-![](img/valerie-labonte.png){width="100"} Friday 15 September, 9:00-9:45
-
-[Valérie Labonté](https://www.cochrane.de/ueber-uns/team), researcher at the Institute for Evidence in Medicine at the University of Freiburg, and researcher at the Cochrane Germany Foundation, will present how to preserve integrity of results through following reporting guidelines. 
-
-
-## Raphael Ritz: FAIR data and software
-
-![](img/raphael-ritz.png){width="100"} Friday 15 September, 10:00-10:45
-
-Dr. [Raphael Ritz](https://www.rd-alliance.org/users/raphael), Head of Data Division at the Max Planck Computing and Data Facility, will present FAIR principles, FAIR cookbook, and examples of ontologies for data and software.
-
-## Dennis Kenji Kipker: Research copyrights
-
-![](img/dennis-kenji-kipker.png){width="100"} Friday 15 September, 11:00-11:45
-
-Prof. Dr. [Denis Kenji Kipker](https://denniskenjikipker.de/), Professor for IT Security Law, University of Bremen, will present what licences are appropriate for sharing data and code. 
