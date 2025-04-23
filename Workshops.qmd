@@ -11,13 +11,13 @@
 Workshops are for selected applicants only (see [Join](Join.qmd)).  
 
 ## Hybrid networking
-Monday 11 September, 13:15-14:15
+Monday 15 September, 13:15-14:15
 
 In person and online participants will get to know each other in two rounds of speed-networking discussions in small groups, each with a 360 degrees camera-microphone.
 
 ## R
-**Nicklas Hafiz, Karoline Sachse,  Felix Henninger**   
-![](img/felix-henninger.png){width="100"}![](img/karoline-sachse.png){width="100"}![](img/nicklas-hafiz.png){width="100"} Monday 11 September, 14:30-17:30
+**Sarah von Grebmer**   
+![](img/sarah-von-grebmer.png){width="100"} Monday 15 September, 14:30-17:30
 
 You will learn the basics of the R programming language for data wrangling in the RStudio environment. **Basic R knowledge is needed for the rest of the course**.
 
@@ -25,11 +25,10 @@ You will learn the basics of the R programming language for data wrangling in th
 
 The self-paced tutorial for this workshop can be found here: [https://nickhaf.github.io/r_tutorial/](https://nickhaf.github.io/r_tutorial/)
 
-## Julia - A fresh approach to scientific computing
-**Aaron Peikert, Maximilian Ernst, Moritz Ketzer**  
-![](img/moritz-ketzer.png){width="100"}![](img/maximilian-ernst.png){width="100"}![](img/aaron-peikert.png){width="100"} Monday 11 September, 14:30-17:30
+## FAIR research data management
+*![](img/laura-meier.png){width="100"}![](img/aaron-peikert.png){width="100"} Tuesday 16 September, 10:00-11:45
 
-For selected participants who already know the basics of R, there will be the opportunity to learn the basics of the Julia programming language through a facilitated self-paced tutorial.
+EDIT For selected participants who already know the basics of R, there will be the opportunity to learn the basics of the Julia programming language through a facilitated self-paced tutorial.
 Julia is a high-level dynamic programming language designed for numerical and scientific computing, data analysis, machine learning, and more.
 Julia's user-friendly interface, resembling popular languages like R, Python, and Matlab, makes it easily accessible for learners.
 Its focus on performance, however, enables computational speeds that often rival, or even surpass, those of low-level languages such as C or Fortran.
@@ -49,36 +48,37 @@ Dr. [Aaron Peikert](https://www.mpib-berlin.mpg.de/person/103737/2549), post-doc
 
 The self-paced tutorial for this workshop can be found here: [https://formal-methods-mpi.github.io/Workshop.jl/stable/](https://formal-methods-mpi.github.io/Workshop.jl/stable/) 
 
-## Preregistration: why not, how
+## Preregistration
 **Malika Ihle**  
-![](img/malika-ihle.png){width="100"} Tuesday 12 September, 13:13-15:15
+![](img/malika-ihle.png){width="100"} Tuesday 16 September, 13:13-15:15
 
 In this workshop, we will review what detailed information preregistrations and registered reports should contain, and discuss collectively discuss the benefits and disadvantages of embracing such practices, as well as possible fear and concerns, in a structured academic debate. Finally, we will look into how to preregister in practice on the Open Science Framework, and practice the level of precision needed in each section of a preregistration template by peer-reviewing snippets.
 
 ## Simulations of data and data analyses in R
 **Malika Ihle**  
-![](img/malika-ihle.png){width="100"} Tuesday 12 September, 15:30-17:30
+![](img/malika-ihle.png){width="100"} Tuesday 16 September, 15:30-17:30
 
 You will be guided through the What, Why, and How of simulations of data and data analyses.  We will follow this self-paced tutorial: [https://malikaihle.github.io/Introduction-Simulations-in-R/](https://malikaihle.github.io/Introduction-Simulations-in-R/). The material covers the concept of power analyses for simple tests, how to check for false positive rates, and how simulations can help with preparing a preregistration. Basic knowledge of the R syntax is needed.
 
+## Research Data Management (RDM) plans
+**Laura Meier**  
+![](img/laura-meier.png){width="100"} Wednesday 17 September, 13:15-14:15
+
+The planning of a research project and the management of one’s own data bring many advantages in everyday research. [Laura Meier](https://www.ub.uni-muenchen.de/ueber-die-ub/kontakt/personen/meier-l/index.html), from the RDM information team of University Library of LMU Munich, will present what to look for when creating a data management plan and how web-based tools such as the Research Data Management Organiser (RDMO) can be used to make work easier.
+
 ## Version control with Git with RStudio
-**Malika Ihle, Felix Henninger, Pat Callahan**  
-![](img/felix-henninger.png){width="100"} ![](img/malika-ihle.png){width="100"} Wednesday 13 September, 13:15-16:15
+**Malika Ihle, Reema Gupta, Florian Kohrt**  
+![](img/malika-ihle.png){width="100"}
+![](img/florian-kohrt.png){width="100"}Wednesday 17 September, 14:30-17:30
 
 In this facilitated self-paced tutorial, you will learn the basic concept of version control using RStudio as one of many possible GUI interfaces that can interact with Git. You will learn how to use version control for your own workflow (Git within RStudio with backup online on GitHub) and for collaborative coding (fork, clone, pull requests on Github). The self-paced tutorials can be found at: [https://malikaihle.github.io/Introduction-RStudio-Git-GitHub/](https://malikaihle.github.io/Introduction-RStudio-Git-GitHub/) and [https://malikaihle.github.io/Collaborative-RStudio-GitHub/](https://malikaihle.github.io/Collaborative-RStudio-GitHub/).
 
 Dr [Malika Ihle](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html), LMU Open Science Center coordinator, [Felix Henninger](https://felixhenninger.com/), PhD student in Statistics, and Pat Callahan, M.Sc. student in Epidemiology will co-facilitate this session.
 
-## Research Data Management (RDM) plans
-**Laura Meier**  
-![](img/laura-meier.png){width="100"}Wednesday 13 September, 16:30-17:30
-
-The planning of a research project and the management of one’s own data bring many advantages in everyday research. [Laura Meier](https://www.ub.uni-muenchen.de/ueber-die-ub/kontakt/personen/meier-l/index.html), from the RDM information team of University Library of LMU Munich, will present what to look for when creating a data management plan and how web-based tools such as the Research Data Management Organiser (RDMO) can be used to make work easier.
-
 
 ## Quarto
-**Florian Pargent, Florian Kohrt**  
-![](img/florian-kohrt.png){width="100"} ![](img/florian-pargent.png){width="100"} Thursday 14 September, 13:15-15:15
+**Pat Callahan, Florian Kohrt**  
+![](img/florian-kohrt.png){width="100"} ![](img/florian-pargent.png){width="100"} Thursday 18 September, 10:00-11:45
 
 Quarto makes transparent and reproducible data analysis simple and fun. In a nutshell, Quarto lets you mix text written in markdown with chunks of executable code written in, e.g., R or Python. You can use it for interactive notebooks, and export to a large number of formats including HTML, PDF/LaTeX, Microsoft Word or PowerPoint, or even interactive websites. In this workshop, we cover the fundamentals, including the markdown syntax, code chunks and inline code, and the output formats available. We also go over citations, cross-referencing, and templating, which ultimately allow you to write academic papers entirely in Quarto.
 
@@ -86,23 +86,22 @@ LMU psychologists Dr [Florian Pargent](https://www.psy.lmu.de/pm/personen/lehrst
 
 The self-paced tutorial for this workshop can be found here: [https://florianpargent.github.io/Quarto_LMU_OSC/](https://florianpargent.github.io/Quarto_LMU_OSC/)
 
-## What’s next? Facilitated group discussion
-**Verena Heise**  
-![](img/verena-heise.png){width="100"} Thursday 14 September, 16:30-17:30
+## Reproducible R environment and code publishing
+**Florian Kohrt, Pat Callahan, Reema Gupta**
+![](img/florian-kohrt.png){width="100"}
+![](img/florian-kohrt.png){width="100"} Thursday 18 September, 13:15-16:15
 
-Dr [Verena Heise](https://vheise.com/), Open Science Freelancer, will facilitate a discussion on how you can plan to integrate parts of this course into your research and the strategies you can put in place to best support yourself in reaching your goals, following the "Ten simple rules for implementing open and reproducible research practices after attending a training course" ([https://doi.org/10.1371/journal.pcbi.1010750](https://doi.org/10.1371/journal.pcbi.1010750)).
-
-## Systematic reviews
-**Sofija Vojvodic**  
-![](img/sofija-vojvodic.png){width="100"} Friday 15 September, 13:15-15:15  
-
-Sofija Vojvodic (PhD candidate at Charité Universitätsmedizin), [Preclinical systematic review research group](https://www.bihealth.org/en/notices/research-group-mccann) Berlin Institute of Health QUEST Center for Responsible Research, will provide you with a comprehensive understanding of systematic review and meta-analysis, which are essential research synthesis methods used to determine the current state of knowledge, assess the reliability of evidence, and identify areas for future research. Through a combination of lectures and hands-on activities, you will learn the key steps involved in conducting systematic reviews and meta-analyses, and the importance of this evidence synthesis method for responsible research.
-
-
-## How to use the Open Science Framework (OSF)
+## Q&A
 **Malika Ihle**  
-![](img/malika-ihle.png){width="100"} Friday 15 September, 15:30-17:30  
+![](img/malika-ihle.png){width="100"} Friday 19 September, 11:00-11:45
 
-Through a self-paced tutorial, you will learn to use the Open Science Framework infrastructure to centralise your research projects, connect your regular tools to it (e.g. GitHub, GitLab, Google Drive, Dropbox, Zotero, etc.), explore how to share and link your data, material, preregistration, and preprint to your published article.
+
+## What’s next? Facilitated group discussion
+**Sarah von Grebmer**  
+![](img/sarah-von-grebmer.png){width="100"} Friday 19 September, 13:15-14:15
+
+Dr. [Sarah von Grebmer](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html), the LMU Open Science Center Train-the-Trainer Program coordinator, will facilitate a discussion on how you can plan to integrate parts of this course into your research and the strategies you can put in place to best support yourself in reaching your goals, following the "Ten simple rules for implementing open and reproducible research practices after attending a training course" ([https://doi.org/10.1371/journal.pcbi.1010750](https://doi.org/10.1371/journal.pcbi.1010750)).
+
+
 
 
