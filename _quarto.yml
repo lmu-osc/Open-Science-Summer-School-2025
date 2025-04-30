@@ -4,13 +4,13 @@ project:
 
 website:
   twitter-card: 
-    title: "LMU Open Science Center Summer School 2023"
+    title: "LMU Open Science Center Summer School 2025"
     description: "programme and application process"
     image: img/flyerpreview.png
     image-height: 418
   search: false
     
-  title: "LMU Open Science Center Summer School 2023"
+  title: "LMU Open Science Center Summer School 2025"
   site-url: https://lmu-osc.github.io/OSC-Open-Research-Summer-School-2023/ 
   repo-url: https://github.com/lmu-osc/OSC-Open-Research-Summer-School-2023 
   navbar:
@@ -23,6 +23,8 @@ website:
         text: "Lectures"
       - href: Workshops.qmd
         text: "Workshops"
+      - href: Pedagogical_Workshops.qmd
+        text: "Pedagogical workshops"
       - href: Join.qmd
         text: "Join"
     pinned: true

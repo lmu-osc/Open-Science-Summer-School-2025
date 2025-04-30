@@ -1,0 +1,43 @@
+```{=html}
+<head>
+  <style>
+    img {
+      float: right;
+      margin: 13px;
+    }
+  </style>
+</head
+```
+Workshops are for selected applicants only (see [Join](Join.qmd)).  
+
+## Didactics 101
+**Sarah von Grebmer**   
+![](img/sarah-von-grebmer.png){width="100"} Friday 19 September, 14:30-15:30
+
+Do you want to get into giving lectures or workshops to students or colleagues but do not know where to start? This interactive workshop covers basic didactic skills, such as designing course materials and activities, constructional alignment, learning theories and setting learning goals. The workshop emphasises the practical applications to teaching about Open Science to both students and researchers. It aims to equip attendees with essential tools to plan, deliver, and evaluate hands-on content on Open Science. No prior teaching experience is required—just curiosity and a desire to apply these pedagogical skills in the content of Open Science. At the end of this workshop, you will be able to:
+
+- Design course materials and learning activities tailored to teaching Open Science principles to diverse audiences, including students and researchers.
+- Identify and explain key learning theories relevant for teaching about Open Science.
+- Formulate clear and measurable learning goals for sessions on Open Science topics.
+- Adapt didactic tools and techniques to meet the needs of various learners, regardless of their prior knowledge or background in Open Science.
+
+## Activation methods
+**Sarah von Grebmer**   
+![](img/sarah-von-grebmer.png){width="100"} Friday 19 September, 15:30-16:30
+
+Are you wondering how you can make your lectures and workshops fun and engaging? In this fun and interactive workshop we explore activation methods in a classroom setting to foster motivation and attention. You will get to know different activation methods you can individually tailor to your audience and to what you as a trainer/teacher feel most comfortable with. Here we will make use of interactive exercises and practical work to familiarise you with the different methods and how they can concretely be applied in the real world.  At the end of this workshop, you will be able to:
+
+- Understand the purpose of applying activation methods during teaching
+- Select from different activation methods and tailor them to the teaching format, audience and your own teaching persona
+- Apply activation methods in practise
+
+
+## Leadership skills
+**Sarah von Grebmer**   
+![](img/sarah-von-grebmer.png){width="100"} Friday 19 September, 16:30-17:30
+
+Are you keen on implementing Open Science and would like to learn more about the surrounding issues and potential challenges that come with it? Do you want to be prepared to be an advocate for something that is currently still “outside the norm”? In this workshop, we will interactively discuss leadership skills, moderating and troubleshooting skills by discussing real-life scenarios as well as issues around accessibility, diversity and citation politics in Open Science. At the end of this workshop, you will be able to:
+
+- Develop skills to lead and moderate Open Science initiatives, including  lectures and workshops
+- Build confidence as an advocate for Open Science by learning strategies for promoting Open Science in environments where it may be unfamiliar or met with skepticism
+- Critically assess the principles and challenges of Open Science in academic practice and identify common barriers to implementing Open Research practises such as accessibility, diversity and citation politics
