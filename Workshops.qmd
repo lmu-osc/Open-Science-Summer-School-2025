@@ -8,102 +8,93 @@
   </style>
 </head
 ```
-Workshops are for selected applicants only (see [Join](Join.qmd)).  
+
+Workshops are for selected applicants only (see [Join](Join.qmd)).
 
 ## Hybrid networking
+
 Monday 15 September, 13:15-14:15
 
 In person and online participants will get to know each other in two rounds of speed-networking discussions in small groups, each with a 360 degrees camera-microphone.
 
 ## R
-**Sarah von Grebmer**   
+
+**Sarah von Grebmer**\
 ![](img/sarah-von-grebmer.png){width="100"} Monday 15 September, 14:30-17:30
 
 This beginner-friendly R workshop introduces participants to the fundamentals of the R programming language in the RStudio environment for data wrangling. Through hands-on exercises, you will learn how to navigate RStudio, import and manipulate data and create basic visualizations. No prior programming experience is required. By the end of the session, participants will have the skills and confidence to begin using R for their own research projects. **Basic R knowledge is needed for the rest of the course**.
 
-EDIT LMU psychologist [Florian Kohrt](https://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/kohrt_florian/index.html) will facilitate this workshop.
+LMU psychologist [Maximilian Franck](https://www.osc.uni-muenchen.de/members/individual_members/fellows/frank/index.html) will facilitate this workshop.
 
-EDIT The self-paced tutorial for this workshop can be found here: [https://nickhaf.github.io/r_tutorial/](https://nickhaf.github.io/r_tutorial/)
+The self-paced tutorial for this workshop can be found here: <https://github.com/lmu-osc/introduction-to-R>
 
 ## FAIR research data management
-**Reema Gupta, Laura Meier**
-![](img/reema-gupta.png){width="100"}
-![](img/laura-meier.png){width="100"} Tuesday 16 September, 10:00-11:45
 
-EDIT For selected participants who already know the basics of R, there will be the opportunity to learn the basics of the Julia programming language through a facilitated self-paced tutorial.
-Julia is a high-level dynamic programming language designed for numerical and scientific computing, data analysis, machine learning, and more.
-Julia's user-friendly interface, resembling popular languages like R, Python, and Matlab, makes it easily accessible for learners.
-Its focus on performance, however, enables computational speeds that often rival, or even surpass, those of low-level languages such as C or Fortran.
-Therefore, Julia is an ideal choice for large-scale data analysis and other computationally intensive tasks, as it can be orders of magnitude faster than R or Python.
+**Reema Gupta, Laura Meier** ![](img/reema-gupta.png){width="100"} ![](img/laura-meier.png){width="100"} Tuesday 16 September, 10:00-11:45
 
-In this workshop, we will introduce you to the basics of Julia and the key features setting it apart from other languages.
+This interactive session is centered around the FAIR principles—Findability, Accessibility, Interoperability, and Reusability—and their practical application in managing your research data efficiently. Learn to manage your data in a way that enhances its value and accessibility for the wider research community.
 
-This workshop is designed for R users who are interested in learning a new programming language or want to improve their skills in data analysis and scientific computing. No prior experience with Julia is required, but a understanding of R is recommended.
-
-Depending on the number of attendees from the summer school planned for this workshop, we may open it to public registration (with priority to LMU members).
-If so, it will be advertised on the [LMU Open Science Center mailing list](https://lists.lrz.de/mailman/listinfo/lmu-osc).
-
-A team from the Max Planck Institute for Human Development, the Max Planck School of Cognition, and the Max Planck UCL Centre for Computational Psychiatry and Ageing Research will instruct this workshop:
-Dr. [Aaron Peikert](https://www.mpib-berlin.mpg.de/person/103737/2549), post-doctoral fellow,
-[Maximilian Ernst](https://www.mpib-berlin.mpg.de/staff/maximilian-ernst), PhD student, and
-[Moritz Ketzer](https://www.mps-ucl-centre.mpg.de/people/126423), PhD student.
-
-The self-paced tutorial for this workshop can be found here: [https://formal-methods-mpi.github.io/Workshop.jl/stable/](https://formal-methods-mpi.github.io/Workshop.jl/stable/) 
+How? Appreciation of adequate data management mostly occurs very late, e.g., when looking into someone else’s data folder. We are therefore artificially advancing this experience: You will investigate a publicly available dataset and complete exercises regarding data organization, documentation, and publication aspects. We will conclude with an introduction to data management plans, a helpful planning tool to comply with the FAIR principles.
 
 ## Preregistration
-**Malika Ihle**  
-![](img/malika-ihle.png){width="100"} Tuesday 16 September, 13:13-15:15
+
+**Malika Ihle**\
+![](img/malika-ihle.png){width="100"} Tuesday 16 September, 13:15-15:15
 
 In this workshop, we will review what detailed information preregistrations and registered reports should contain, and discuss collectively discuss the benefits and disadvantages of embracing such practices, as well as possible fear and concerns, in a structured academic debate. Finally, we will look into how to preregister in practice on the Open Science Framework, and practice the level of precision needed in each section of a preregistration template by peer-reviewing snippets.
 
 ## Simulations of data and data analyses in R
-**Malika Ihle**  
+
+**Malika Ihle**\
 ![](img/malika-ihle.png){width="100"} Tuesday 16 September, 15:30-17:30
 
-You will be guided through the What, Why, and How of simulations of data and data analyses.  We will follow this self-paced tutorial: [https://malikaihle.github.io/Introduction-Simulations-in-R/](https://malikaihle.github.io/Introduction-Simulations-in-R/). The material covers the concept of power analyses for simple tests, how to check for false positive rates, and how simulations can help with preparing a preregistration. Basic knowledge of the R syntax is needed.
+You will be guided through the What, Why, and How of simulations of data and data analyses. We will follow this self-paced tutorial: <https://github.com/lmu-osc/Simulations-for-Advanced-Power-Analyses>. The material covers the concept of power analyses for simple tests, how to check for false positive rates, and how simulations can help with preparing a preregistration. Basic knowledge of the R syntax is needed.
 
-## Research Data Management (RDM) plans
-**Laura Meier**  
+## Research data management (RDM) plans
+
+**Laura Meier**\
 ![](img/laura-meier.png){width="100"} Wednesday 17 September, 13:15-14:15
 
 The planning of a research project and the management of one’s own data bring many advantages in everyday research. [Laura Meier](https://www.ub.uni-muenchen.de/ueber-die-ub/kontakt/personen/meier-l/index.html), from the RDM information team of University Library of LMU Munich, will present what to look for when creating a data management plan and how web-based tools such as the Research Data Management Organiser (RDMO) can be used to make work easier.
 
-## Version control with Git with RStudio
-**Malika Ihle, Reema Gupta, Florian Kohrt**  
-![](img/malika-ihle.png){width="100"}
-![](img/reema-gupta.png){width="100"}
-![](img/florian-kohrt.png){width="100"} Wednesday 17 September, 14:30-17:30
+## Version control in RStudio with Git
 
-In this facilitated self-paced tutorial, you will learn the basic concept of version control using RStudio as one of many possible GUI interfaces that can interact with Git. You will learn how to use version control for your own workflow (Git within RStudio with backup online on GitHub) and for collaborative coding (fork, clone, pull requests on Github). The self-paced tutorials can be found at: [https://malikaihle.github.io/Introduction-RStudio-Git-GitHub/](https://malikaihle.github.io/Introduction-RStudio-Git-GitHub/) and [https://malikaihle.github.io/Collaborative-RStudio-GitHub/](https://malikaihle.github.io/Collaborative-RStudio-GitHub/).
+**Malika Ihle, Reema Gupta, Florian Kohrt**\
+![](img/malika-ihle.png){width="100"} ![](img/reema-gupta.png){width="100"} ![](img/florian-kohrt.png){width="100"} Wednesday 17 September, 14:30-17:30
 
-EDIT Reema Gupta (https://www.osc.uni-muenchen.de/about_us/coordinator/index.html), LMU Open Science Center content developer and LMU psychologist [Florian Kohrt](https://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/kohrt_florian/index.html) will co-facilitate this session.
+In this facilitated self-paced tutorial, you will learn the basic concept of version control using RStudio as one of many possible GUI interfaces that can interact with Git. You will learn how to use version control for your own workflow (Git within RStudio with backup online on GitHub) and for collaborative coding (fork, clone, pull requests on Github). The self-paced tutorials can be found at: <https://github.com/lmu-osc/Introduction-RStudio-Git-GitHub/> and <https://github.com/lmu-osc/Collaborative-RStudio-GitHub>.
 
+LMU Open Science Center content developer and PhD candidate [Reema Gupta](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html) and LMU psychologist [Florian Kohrt](https://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/kohrt_florian/index.html) will co-facilitate this session.
 
 ## Quarto
-**Pat Callahan, Florian Kohrt**  
+
+**Pat Callahan, Florian Kohrt**\
 ![](img/florian-kohrt.png){width="100"} Thursday 18 September, 10:00-11:45
 
 Quarto makes transparent and reproducible data analysis simple and fun. In a nutshell, Quarto lets you mix text written in markdown with chunks of executable code written in, e.g., R or Python. You can use it for interactive notebooks, and export to a large number of formats including HTML, PDF/LaTeX, Microsoft Word or PowerPoint, or even interactive websites. In this workshop, we cover the fundamentals, including the markdown syntax, code chunks and inline code, and the output formats available. We also go over citations, cross-referencing, and templating, which ultimately allow you to write academic papers entirely in Quarto.
 
 LMU psychologist [Florian Kohrt](https://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/kohrt_florian/index.html) will facilitate this workshop.
 
-EDIT The self-paced tutorial for this workshop can be found here: [https://florianpargent.github.io/Quarto_LMU_OSC/](https://florianpargent.github.io/Quarto_LMU_OSC/)
+The self-paced tutorial for this workshop can be found here: <https://github.com/lmu-osc/introduction-to-Quarto>
 
 ## Reproducible R environment and code publishing
-**Florian Kohrt, Pat Callahan, Reema Gupta**
-![](img/florian-kohrt.png){width="100"}
-![](img/reema-gupta.png){width="100"} Thursday 18 September, 13:15-16:15
 
-EDIT This workshop provides an introduction to best practices for sharing and disseminating code in a reproducible and transparent manner. It integrates key concepts such as version control, documentation, and creating accessible repositories using platforms like GitHub. You will learn how to structure their code, ensure it is well-documented, and effectively communicate methods and results. The workshop emphasises the importance of reproducibility and Open Science, enabling researchers to share their work in a way that is clear, verifiable, and easily accessible to the broader scientific community.
+**Florian Kohrt, Pat Callahan, Reema Gupta** ![](img/florian-kohrt.png){width="100"} ![](img/reema-gupta.png){width="100"} Thursday 18 September, 13:15-16:15
 
+EDIT This workshop provides an introduction to best practices for sharing and disseminating code in a reproducible and transparent manner. It integrates key concepts such as version control, documentation, and creating accessible repositories using platforms like GitHub. You will learn how to structure your code, ensure it is well-documented, and effectively communicate methods and results. The workshop emphasises the importance of reproducibility and Open Science, enabling researchers to share their work in a way that is clear, verifiable, and easily accessible to the broader scientific community.
+
+The self-paced tutorial for this workshop can be found here: <https://github.com/lmu-osc/code-publishing>
 
 ## Q&A
-**Malika Ihle**  
-![](img/malika-ihle.png){width="100"} Friday 19 September, 11:00-11:45
+
+**Malika Ihle**\
+![](img/malika-ihle.png){width="100"} Friday 19 September, 11:00-11:45 
+
 In this interactive Q&A session, you will have the opportunity to ask questions about your own projects and receive tailored guidance from the instructors and facilitators. Whether you're facing challenges with your code, or one of the topics covered during this summer school, this session provides a space for personalised support, troubleshooting and solution-focused group discussions.
 
 ## Where to go from here? Facilitated group discussion
-**Sarah von Grebmer**  
+
+**Sarah von Grebmer**\
 ![](img/sarah-von-grebmer.png){width="100"} Friday 19 September, 13:15-14:15
 
-Dr. [Sarah von Grebmer](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html), the LMU Open Science Center Train-the-Trainer Program coordinator, will facilitate a discussion on how you can plan to integrate parts of this course into your research and the strategies you can put in place to best support yourself in reaching your goals, following the "Ten simple rules for implementing open and reproducible research practices after attending a training course" ([https://doi.org/10.1371/journal.pcbi.1010750](https://doi.org/10.1371/journal.pcbi.1010750)).
+Dr. [Sarah von Grebmer](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html), the LMU Open Science Center Train-the-Trainer Program coordinator, will facilitate a discussion on how you can plan to integrate parts of this course into your research and the strategies you can put in place to best support yourself in reaching your goals, following the "Ten simple rules for implementing open and reproducible research practices after attending a training course" (<https://doi.org/10.1371/journal.pcbi.1010750>).
