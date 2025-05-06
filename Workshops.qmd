@@ -20,7 +20,7 @@ In person and online participants will get to know each other in two rounds of s
 ## Introduction to R
 
 **Sarah von Grebmer, Maximilian Frank, Sara Lil Middleton**\
-![](img/sarah-von-grebmer.png){width="100"}
+![](img/sarah-von-grebmer.png){width="100"} 
 Monday 15 September, 14:30-17:30
 
 This beginner-friendly R workshop introduces participants to the fundamentals of the R programming language in the RStudio environment for data wrangling. Through hands-on exercises, you will learn how to navigate RStudio, import and manipulate data and create basic visualizations. No prior programming experience is required. By the end of the session, participants will have the skills and confidence to begin using R for their own research projects. **Basic R knowledge is needed for the rest of the course**.
@@ -31,8 +31,8 @@ The self-paced tutorial for this workshop can be found here: <https://github.com
 
 ## FAIR research data management
 
-**Reema Gupta, Laura Meier, Sara Lil Middleton** ![](img/reema-gupta.png){width="100"}
-![](img/laura-meier.png){width="100"}Tuesday 16 September, 10:00-11:45
+**Reema Gupta, Laura Meier, Sara Lil Middleton**\ ![](img/reema-gupta.png){width="100"} ![](img/laura-meier.png){width="100"}
+Tuesday 16 September, 10:00-11:45
 
 This interactive session is centered around the FAIR principles—Findability, Accessibility, Interoperability, and Reusability—and their practical application in managing your research data efficiently. Learn to manage your data in a way that enhances its value and accessibility for the wider research community.
 
@@ -42,25 +42,27 @@ How? Appreciation of adequate data management mostly occurs very late, e.g., whe
 
 ## Preregistration
 
-**Malika Ihle**
-![](img/malika-ihle.png){width="100"} Tuesday 16 September, 13:15-15:15
+**Malika Ihle**\ 
+![](img/malika-ihle.png){width="100"} 
+Tuesday 16 September, 13:15-15:15
 
 In this workshop, we will review what detailed information preregistrations and registered reports should contain, and discuss collectively discuss the benefits and disadvantages of embracing such practices, as well as possible fear and concerns, in a structured academic debate. Finally, we will look into how to preregister in practice on the Open Science Framework, and practice the level of precision needed in each section of a preregistration template by peer-reviewing snippets.
 
 ## Simulations of data and data analyses in R
 
 **Malika Ihle**\
-![](img/malika-ihle.png){width="100"} Tuesday 16 September, 15:30-17:30
+![](img/malika-ihle.png){width="100"} 
+Tuesday 16 September, 15:30-17:30
 
 You will be guided through the What, Why, and How of simulations of data and data analyses. We will follow this self-paced tutorial: <https://github.com/lmu-osc/Simulations-for-Advanced-Power-Analyses>. The material covers the concept of power analyses for simple tests, how to check for false positive rates, and how simulations can help with preparing a preregistration. Basic knowledge of the R syntax is needed.
 
-This workshop will be facilitated by EDIT. 
+This workshop will be facilitated by EDIT.
 
 ## Research data management (RDM) plans
 
 **Laura Meier, Reema Gupta, Sara Lil Middleton**\
-![](img/laura-meier.png){width="100"}
-![](img/reema-gupta.png){width="100"}
+![](img/laura-meier.png){width="100"} 
+![](img/reema-gupta.png){width="100"} 
 Wednesday 17 September, 13:15-14:15
 
 The planning of a research project and the management of one’s own data bring many advantages in everyday research. [Laura Meier](https://www.ub.uni-muenchen.de/ueber-die-ub/kontakt/personen/meier-l/index.html), from the RDM information team of University Library of LMU Munich, will present what to look for when creating a data management plan and how web-based tools such as the Research Data Management Organiser (RDMO) can be used to make work easier.
@@ -69,8 +71,9 @@ LMU Open Science Center content developer and PhD candidate [Reema Gupta](https:
 
 ## Version control in RStudio with Git
 
-**Malika Ihle, Reema Gupta, Florian Kohrt**
-![](img/malika-ihle.png){width="100"} ![](img/reema-gupta.png){width="100"} ![](img/florian-kohrt.png){width="100"} Wednesday 17 September, 14:30-17:30
+**Malika Ihle, Reema Gupta, Florian Kohrt**\ ![](img/malika-ihle.png){width="100"} 
+![](img/reema-gupta.png){width="100"} ![](img/florian-kohrt.png){width="100"} 
+Wednesday 17 September, 14:30-17:30
 
 In this facilitated self-paced tutorial, you will learn the basic concept of version control using RStudio as one of many possible GUI interfaces that can interact with Git. You will learn how to use version control for your own workflow (Git within RStudio with backup online on GitHub) and for collaborative coding (fork, clone, pull requests on Github). The self-paced tutorials can be found at: <https://github.com/lmu-osc/Introduction-RStudio-Git-GitHub/> and <https://github.com/lmu-osc/Collaborative-RStudio-GitHub>.
 
@@ -79,8 +82,7 @@ LMU Open Science Center content developer and PhD candidate [Reema Gupta](https:
 ## Quarto
 
 **Pat Callahan, Florian Kohrt, Reema Gupta**\
-![](img/florian-kohrt.png){width="100"}
-![](img/reema-gupta.png){width="100"}Thursday 18 September, 10:00-11:45
+![](img/florian-kohrt.png){width="100"} ![](img/reema-gupta.png){width="100"}Thursday 18 September, 10:00-11:45
 
 Quarto makes transparent and reproducible data analysis simple and fun. In a nutshell, Quarto lets you mix text written in markdown with chunks of executable code written in, e.g., R or Python. You can use it for interactive notebooks, and export to a large number of formats including HTML, PDF/LaTeX, Microsoft Word or PowerPoint, or even interactive websites. In this workshop, we cover the fundamentals, including the markdown syntax, code chunks and inline code, and the output formats available. We also go over citations, cross-referencing, and templating, which ultimately allow you to write academic papers entirely in Quarto.
 
@@ -90,7 +92,8 @@ The self-paced tutorial for this workshop can be found here: <https://github.com
 
 ## Reproducible R environment and code publishing
 
-**Florian Kohrt, Pat Callahan, Reema Gupta** ![](img/florian-kohrt.png){width="100"} ![](img/reema-gupta.png){width="100"} Thursday 18 September, 13:15-16:15
+**Florian Kohrt, Pat Callahan, Reema Gupta** ![](img/florian-kohrt.png){width="100"} ![](img/reema-gupta.png){width="100"} 
+Thursday 18 September, 13:15-16:15
 
 EDIT This workshop provides an introduction to best practices for sharing and disseminating code in a reproducible and transparent manner. It integrates key concepts such as version control, documentation, and creating accessible repositories using platforms like GitHub. You will learn how to structure your code, ensure it is well-documented, and effectively communicate methods and results. The workshop emphasises the importance of reproducibility and Open Science, enabling researchers to share their work in a way that is clear, verifiable, and easily accessible to the broader scientific community.
 
@@ -99,7 +102,8 @@ The self-paced tutorial for this workshop can be found here: <https://github.com
 ## Q&A
 
 **Malika Ihle**\
-![](img/malika-ihle.png){width="100"} Friday 19 September, 11:00-11:45 
+![](img/malika-ihle.png){width="100"} 
+Friday 19 September, 11:00-11:45
 
 In this interactive Q&A session, you will have the opportunity to ask questions about your own projects and receive tailored guidance from the instructors and facilitators. Whether you're facing challenges with your code, or one of the topics covered during this summer school, this session provides a space for personalised support, troubleshooting and solution-focused group discussions.
 
