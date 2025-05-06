@@ -31,7 +31,5 @@ Are you interested in introducing your peers, students, or lab group to Open Sci
 
 Are you keen on implementing Open Science and would like to learn more about the surrounding issues and potential challenges that come with it? Do you want to be prepared to be an advocate for something that is currently still “outside the norm” and sometimes met with skepticism? In this workshop, we will interactively discuss issues connected to Open Science and challenges around its implementation. At the end of this workshop, you will be able to:
 
-- Critically assess the principles and challenges of Open Science in academic practice and identify common barriers to implementing Open Research practises such as accessibility, diversity and citation politics
-- Develop the skills and confidence to lead, moderate, and advocate for Open Science initiatives, including workshops and lectures
-
-
+- Critically assess the principles and challenges of Open Science in academic practice and identify common barriers to implementing Open Research practises such as accessibility, diversity and citation politics.
+- Develop the skills and confidence to lead, moderate, and advocate for Open Science initiatives, including workshops and lectures.
