@@ -13,6 +13,6 @@ Material: EDIT <https://osf.io/nymr5/>
 
 ### Funding note
 
-The organisers of this summer school [LMU Open Science Center coordinator](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html), Dr, Malika Ihle, and [LMU Open Science Center train-the-trainer program coordinator](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html), Dr. Sarah von Grebmer zu Wolfsthurn are funded by the **INSERT** and the **VW Pioneer Project** grant, respectively. The **University Library** **of LMU Munich** provides in-kind support.
+The organisers of this summer school [LMU Open Science Center coordinator](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html), Dr, Malika Ihle, and [LMU Open Science Center train-the-trainer program coordinator](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html), Dr. Sarah von Grebmer zu Wolfsthurn are funded by the **OpenHyFast** and the **VW Pioneer Project** grants, respectively. The **University Library** **of LMU Munich** provides in-kind support.
 
 ![](img/OSC-LMU-UB.png){fig-alt="OSC, LMU and UB logos" fig-align="center" width="500"}
