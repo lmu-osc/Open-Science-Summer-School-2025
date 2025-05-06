@@ -8,7 +8,8 @@
   </style>
 </head
 ```
-All lectures are opened for public registration (see [Join](Join.qmd)).  
+
+All lectures are opened for public registration (see [Join](Join.qmd)).
 
 ## Felix Schönbrodt: Replicability crisis
 
@@ -24,9 +25,8 @@ Dr. [Malika Ihle](https://www.osc.uni-muenchen.de/about_us/coordinator/index.htm
 
 ## Felix Schönbrodt: Data sharing
 
-![](img/felix-schoenbrodt.png){width="100"} Tuesday 16 September, 9:00-09:45  
-Prof. Dr. [Felix Schönbrodt](https://www.osc.uni-muenchen.de/about_us/director/index.html) will explain why we should share data and the fundamental of data sharing practicalities. 
-
+![](img/felix-schoenbrodt.png){width="100"} Tuesday 16 September, 9:00-09:45\
+Prof. Dr. [Felix Schönbrodt](https://www.osc.uni-muenchen.de/about_us/director/index.html) will explain why we should share data and the fundamentals of data sharing practicalities.
 
 ## Richard McElreath: Science as amateur software development
 
@@ -38,16 +38,17 @@ Prof. Dr. [Richard McElreath](https://www.eva.mpg.de/ecology/staff/richard-mcelr
 
 ## Felix Schönbrodt: Open access, preprints, postprints
 
-![](img/felix-schoenbrodt.png){width="100"} Wednesday 17 September, 10:15-11:45  
+![](img/felix-schoenbrodt.png){width="100"} Wednesday 17 September, 10:15-11:45
 
 Prof. Dr. [Felix Schönbrodt](https://www.osc.uni-muenchen.de/about_us/director/index.html) will explain the different shades of Open Access (e.g. green, gold, diamond) and their advantages, and show what different ways there are to make your own publications freely accessible. He will also go into the business models of scientific publishers and take a critical look at their increasing activities as data analysis companies.
 
-## Vera Karlbauer: Readble code
+## Vera Karlbauer: Readable code
 
 ![](img/sarah-von-grebmer.png){width="100"} Thursday 18 September, 09:00-09:45
 
-P.D. Dr. [Joachim Wuttke](https://www.fz-juelich.de/profile/wuttke_j), Group Leader of Scientific Computing, Jülich Centre for Neutron Science, Garching, will present guidelines for collaborative development of sustainable data treatment software (<https://doi.org/10.3233/JNR-220002>). In software engineering, there is a common saying that "code is read by humans more than it is executed by computers". Whether this is exactly true or not, one message remains: readability counts. This is even more so in research, as code is often the only available detailed description of the computational experiments of data analyses underlying your research. This lecture will cover simple techniques to make your codes easier to read - by yourself, your colleagues or your peers reproducing your research.
+P.D. Dr. [Joachim Wuttke](https://www.fz-juelich.de/profile/wuttke_j), Group Leader of Scientific Computing, Jülich Centre for Neutron Science, Garching,
 
+Many research questions require code to be answered. Clear, understandable and maintainable code is key to reduce analysis errors and improve reproducibility. [Vera Karlbauer](https://www.psych.mpg.de/person/125319), PhD student at the Max Planck Institute of Psychiatry (MPIP), will give an overview which concepts work for data analysis scripts and share specific recommendations and examples for clean code that are applicable across scientific disciplines. The lecture introduces key strategies such as following a style guide, code reuse, unified project structures and code review.
 
 ## Tim Errington: Investigating the replicability of cancer research
 

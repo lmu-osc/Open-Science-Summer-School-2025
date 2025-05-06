@@ -17,14 +17,14 @@ Monday 15 September, 13:15-14:15
 
 In person and online participants will get to know each other in two rounds of speed-networking discussions in small groups, each with a 360 degrees camera-microphone.
 
-## R
+## Introduction to R
 
 **Sarah von Grebmer**\
 ![](img/sarah-von-grebmer.png){width="100"} Monday 15 September, 14:30-17:30
 
 This beginner-friendly R workshop introduces participants to the fundamentals of the R programming language in the RStudio environment for data wrangling. Through hands-on exercises, you will learn how to navigate RStudio, import and manipulate data and create basic visualizations. No prior programming experience is required. By the end of the session, participants will have the skills and confidence to begin using R for their own research projects. **Basic R knowledge is needed for the rest of the course**.
 
-LMU psychologist [Maximilian Franck](https://www.osc.uni-muenchen.de/members/individual_members/fellows/frank/index.html) will facilitate this workshop.
+LMU psychologist [Maximilian Frank](https://www.osc.uni-muenchen.de/members/individual_members/fellows/frank/index.html) will facilitate this workshop.
 
 The self-paced tutorial for this workshop can be found here: <https://github.com/lmu-osc/introduction-to-R>
 
