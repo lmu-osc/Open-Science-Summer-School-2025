@@ -1,6 +1,6 @@
-### Open Research Hybrid Summer School 2023
+### Open Science Summer School 2025
 
-The [LMU Open Science Center](https://www.osc.uni-muenchen.de/index.html) organises this hybrid open research summer school to allow early-career researchers to gain more trust in the research that they do, and make it as credible as it can be in the eyes of their peers, the public, and funding agencies.
+The [LMU Open Science Center](https://www.osc.uni-muenchen.de/index.html) organises this hybrid open science summer school to allow early-career researchers to gain more trust in the research that they do, and make it as credible as it can be in the eyes of their peers, the public, and funding agencies.
 
 By joining (or accessing the material after the school), you will learn how to:
 
@@ -13,6 +13,6 @@ Material: <https://osf.io/nymr5/>
 
 ### Funding note
 
-The [LMU Open Science Center coordinator](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html), Dr Malika Ihle, organising the summer school, is funded by the **Frontier Fund of LMU Munich**. The summer school is funded by the **Fund for the Promotion of Teaching of LMU Munich**. The **University Library** **of LMU Munich** provides in-kind support.
+The organisers of this summer school [LMU Open Science Center coordinator](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html), Dr, Malika Ihle, and [LMU Open Science Center train-the-trainer program coordinator](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html), Dr. Sarah von Grebmer zu Wolfsthurn are funded by the **INSERT** and the **VW Pioneer Project** grant, respectively. The **University Library** **of LMU Munich** provides in-kind support.
 
 ![](img/OSC-LMU-UB.png){fig-alt="OSC, LMU and UB logos" fig-align="center" width="500"}
