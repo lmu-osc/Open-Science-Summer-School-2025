@@ -11,8 +11,8 @@ website:
   search: false
     
   title: "LMU Open Science Center Summer School 2025"
-  site-url: https://lmu-osc.github.io/OSC-Open-Research-Summer-School-2025/ 
-  repo-url: https://github.com/lmu-osc/OSC-Open-Research-Summer-School-2025 
+  site-url: https://lmu-osc.github.io/Open-Science-Summer-School-2025/ 
+  repo-url: https://github.com/lmu-osc/Open-Science-Summer-School-2025 
   navbar:
     left:
       - href: index.qmd
