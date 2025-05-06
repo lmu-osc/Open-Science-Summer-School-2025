@@ -22,9 +22,9 @@ website:
       - href: Lectures.qmd
         text: "Lectures"
       - href: Workshops.qmd
-        text: "Workshops"
+        text: "Track 1 Workshops"
       - href: Pedagogical_Workshops.qmd
-        text: "Pedagogical workshops"
+        text: "Track 2 Workshops"
       - href: Join.qmd
         text: "Join"
     pinned: true
