@@ -1,53 +1,47 @@
-The summer school is targeted at early career researchers and research support staff of all scientific disciplines (Medical sciences, Social Sciences, Life Sciences, etc. as opposed to research fields in the Humanities). Master students and early post docs are also welcome to apply. It will be held in a hybrid format and you will be able to choose your preferred mode of participation (online or in-person). By applying to one or both tracks, we expect you to attend all sessions of the relevant track(s). A certificate of attendance will be provided.
+# Apply to attend either or both tracks (in-person or online)
 
-# Application
-You can apply for Track 1, Track 2, or both by filling out the corresponding application forms (see below).  Alternatively, you can attend the public lectures online upon simple registration, or access all materials of the summer school afterwards (including self-paced tutorials on which many of our workshops are based, workshops and lectures’ slides, and lectures’ recordings). 
+You can apply for Track 1, Track 2, or both by filling out the corresponding application forms before **14 July 2025, 12:00 noon CEST.** 
 
-During the application process, you will be asked about your motivation and experience. We will prioritize novices with clear ideas about where to integrate these news skills in their own research and those indending to provide Open Science training to their peers or students. At equal score, we will prioritize members of the LMU, and maximize the diversity of applicants background in terms of discipline, career stage, and gender.
+The in-person part of the school will take place in UB der LMU - Fachbibliothek Philologicum, **Ludwigstraße 25, 80539 München, Germany**. The online part will be on **Zoom**. We are unable to provide travel grants. 
 
-## Apply to attend Track 1 “Open Science knowledge and skills” (in-person or online)
+*If you are interested in attending both tracks, please fill out both application forms. Applicants for both tracks will be notified of the results of their application by July 21. If selected or wait-listed, you will have to confirm your spot by July 30.* 
 
-These open science workshops are for selected applicants only.
+## Apply to attend Track 1 “Open Science knowledge and skills”
 
-To attend the Track 1 “Open Science knowledge and skills”, i.e. both public lectures and workshops for selected applicants between Monday 15.9.2025 9:00 and Friday 19.9.2025 14:30, in person or online, you must apply before **14 July 2025, 12:00 noon CEST.**
+Selected applicants of Track 1 are expected to attend all sessions from Monday 15.09.2025 9:00 to Friday 19.09.2025 14:30.
 
-**Apply here:** [**https://tellmi.psy.lmu.de/formr/OSC-Summer-School-2023**](https://tellmi.psy.lmu.de/formr/OSC-Summer-School-2023)
+**Apply here:** [**https://surveys.osc.lmu.de/OSSS25-core-training-application**](https://surveys.osc.lmu.de/OSSS25-core-training-application){target="_blank"}
 
-*Note: if you are interested in attending both tracks, please fill out both application forms.*
+**Target audience**: early career researchers of any scientific disciplines (e.g. Medical sciences, Social Sciences, Life Sciences) who are Open Science novices (e.g., advanced Masters students, PhD students, postdocs).\
+**Selection criteria**: Clear motivations and ideas about where to integrate these news skills in your own research. At equal scores, LMU members or upcoming LMU members will be favored over external students and researchers.\
+**Certificate of attendance**: You will automatically receive a certificate of attendance following your participation.\
+**Note**: In previous years, we received over 100 applications for 40 seats in this track. Please keep our selection criteria in mind when writing your application. 
 
-## Apply to attend Track 2 “Open Science instructor training” (in-person or online)
+## Apply to attend Track 2 “Open Science instructor training”
 
-These instructor workshops are for selected applicants only who are interested in becoming open science instructors.
+Selected applicants of Track 2 are expected to attend all sessions from Friday 19.09.2025 14:30 to 17:30.
 
-To attend Track 2 “Open Science instructor training” between Friday 19.9.2025 14:30 and Friday19.9.2025 17:30, in person or online, you must apply before **14 July 2025, 12:00 noon CEST.**
+**Apply here:** [**https://surveys.osc.lmu.de/OSSS25-instructor-training-application**](https://surveys.osc.lmu.de/OSSS25-instructor-training-application){target="_blank"}
 
-### Eligibility criteria
-1. LMU member
-2. proof of acquired Open Science knowledge and skills (e.g. application for Track 1, certificate of attendance to previous Open Science training, link to open research resources such as a GitHub repository, FAIR dataset, or open preregistration).
+**Target audience**: early career researchers or research support staff interested in becoming Open Science instructors.\
+**Eligibility criteria**: 1. LMU member 2.  proof of acquired Open Science knowledge and skills (e.g. application for Track 1, certificate of attendance to previous Open Science training, link to open research resources such as a GitHub repository, FAIR dataset, or open preregistration).\
+**Selection criteria**: Clear motivations. At equal scores, those with a concrete plan for delivery will be favored.\ 
+**Certificate of attendance**: You will automatically receive a certificate of attendance following your participation.\
+**Certificate of Open Science teaching skills**: After joining this track, you will have the opportunity to put your new skills into practice and co-deliver a workshop at LMU (e.g. in your department) on an Open Science topic of your choice within 6 months <!-- can we please discuss this, I really think a year would be more accurate --> after the summer school. If you choose to do so, the OSC will support you during the planning, preparation and delivery of the workshop with hands-on feedback and practical tips. After your workshop delivery, you will receive an additional certificate of Open Science teaching skills. 
 
-**Apply here:** EDIT [**https://tellmi.psy.lmu.de/formr/OSC-Summer-School-2023**](https://tellmi.psy.lmu.de/formr/OSC-Summer-School-2023)
-
-*Note: if you are interested in attending both tracks, please fill out both application forms.*
-
-## Join one or several of the public lectures (online)
+# Join one or several of the public lectures (online)
 
 Anyone can register at any time before the end of the summer school to attend one, multiple, or all lectures online.
 
-**Register here:** EDIT [**https://www.pretix.osc.lmu.de/lmu-osc/OSSS25/ **](https://www.pretix.osc.lmu.de/lmu-osc/OSSS25/)
+**Register here:** [**https://www.pretix.osc.lmu.de/lmu-osc/OSSS25/** ](https://www.pretix.osc.lmu.de/lmu-osc/OSSS25/){target="_blank"}
 
-## Access the training material of the school
+By registering, you will get a confirmation email with a Zoom Webinar link. You can request to receive a certificate of attendance if you attend all seven lectures while signed-in to Zoom.
+
+# Access the training material of the school
 
 Recording of the lectures, slides, and workshops material are accessible on our Open Science Framework repository under a CC BY 4.0 by attribution licence.
 
-**Access our summer school material here:** EDIT [**https://osf.io/nymr5/**](https://osf.io/nymr5/){.uri}
+**Access our summer school material here:**  [**https://osf.io/FIXME**](https://osf.io/FIXME/){target="_blank"}
 
-# Notification of acceptance
 
-Applicants for both tracks will be notified of the results of their application by July 21. If selected or wait-listed, you will have to confirm your spot by July 30. If you register for the public lectures, you will get a confirmation email with a Zoom link.
 
-# Certificates of acceptance and instructor teaching skills certificate
-
-If you participate in either track, you will receive separate certificates of attendance. If you also deliver a workshop within six months of attending Track 2, you will receive an additional certificate of Open Science teaching skills. If you only register to attend the public lectures, you can request to receive a certificate of attendance if you attend all seven  lectures while signed-in to Zoom.
-
-# Summer school location
-The in-person part of the school will take place in UB der LMU - Fachbibliothek Philologicum, **Ludwigstraße 25, 80539 München, Germany**. The online part will be on **Zoom**. Unfortunately, we are unable to provide travel grants.
