@@ -20,11 +20,11 @@ website:
       - href: Programme.qmd
         text: "Programme"
       - href: Lectures.qmd
-        text: "Lectures"
+        text: "Public lectures"
       - href: Workshops.qmd
-        text: "Track 1 Workshops"
+        text: "Open Science knowledge and skills workshops"
       - href: Pedagogical_Workshops.qmd
-        text: "Track 2 Workshops"
+        text: "Open Science instructor training workshops"
       - href: Join.qmd
         text: "Join"
     pinned: true
