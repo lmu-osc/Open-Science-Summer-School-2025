@@ -1,6 +1,8 @@
 # Open Science Summer School 2025
 
-The [LMU Open Science Center](https://www.osc.uni-muenchen.de/index.html) organises its 5th hybrid summer school. This year's iteration has two tracks to provide participants with two sets of skills:
+The [LMU Open Science Center](https://www.osc.uni-muenchen.de/index.html){target="_blank"} organises its 5th hybrid summer school. This year's iteration has two tracks to provide participants with two sets of skills. 
+
+The in-person part of the school will take place in UB der LMU - Fachbibliothek Philologicum, **Ludwigstraße 25, 80539 München, Germany**. The online part will be on **Zoom**.
 
 ## Track 1: Open Science knowledge and skills
 
@@ -17,7 +19,7 @@ Participants of this track learn how to:
 
 ## Track 2: Open Science instructor training
 
-In this track, early career researchers or research support staff interested in becoming Open Science instructors develop essential **pedagogical skills to promote Open Science through teaching** - no prior experience in teaching required! This track extends from Friday 19.09.2025 14:30 to 17:30.
+In this track, early career researchers or research support staff interested in becoming Open Science instructors develop essential **pedagogical skills to promote Open Science through teaching** - no prior experience in teaching required. This track extends from Friday 19.09.2025 14:30 to 17:30.
 
 Participants of this track learn how to:
 
@@ -27,10 +29,10 @@ Participants of this track learn how to:
 
 -   Develop skills to **advocate for Open Science**, to lead research groups and discussions around Open Science, and to analyse the potential challenges and issues around the implementation of Open Science practices.
 
-After joining this track, you will have the opportunity to put your new skills into practice and co-deliver a workshop at LMU.
+After joining this track, you will have the opportunity to put your new skills into practice and co-deliver a workshop at LMU Munich.
 
 ## Funding note
 
-The organisers of this summer school, LMU Open Science Center coordinator [Dr. Malika Ihle](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html), and LMU Open Science Center train-the-trainer program coordinator [Dr. Sarah von Grebmer zu Wolfsthurn](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html) are funded by the LMU Central Study Fund and the Volkswagen Foundation Pioneer Project grant. The University Library of LMU Munich provides in-kind support.
+The organisers of this summer school, LMU Open Science Center coordinator [Dr. Malika Ihle](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html){target="_blank"}, and LMU Open Science Center train-the-trainer program coordinator [Dr. Sarah von Grebmer zu Wolfsthurn](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html){target="_blank"} are funded by the LMU Central Study Fund and the Volkswagen Foundation Pioneer Project grant. The University Library of LMU Munich provides in-kind support.
 
 ![](img/OSC-LMU-UB.png){fig-alt="OSC, LMU and UB logos" fig-align="center" width="500"}

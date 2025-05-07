@@ -9,7 +9,7 @@
 </head
 ```
 
-Workshops are for selected applicants only (see [Join](Join.qmd)).
+These workshops are for selected applicants of Track 2 only (see [Join](Join.qmd)).
 
 ## Teaching Open Science - Didactics, tools and techniques
 
