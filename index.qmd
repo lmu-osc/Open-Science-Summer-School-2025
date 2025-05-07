@@ -1,52 +1,36 @@
 # Open Science Summer School 2025
 
-The LMU Open Science Center (OSC) is excited to announce the **Open Science Summer School 2025 (OSSS25)**. This dual-track intensive 5-day Open Science Summer School aims to provide participants with two sets of skills:
+The [LMU Open Science Center](https://www.osc.uni-muenchen.de/index.html) organises its 5th hybrid summer school. This year's iteration has two tracks to provide participants with two sets of skills:
 
 ## Track 1: Open Science knowledge and skills
-In this track, you will learn to make your research more **transparent**, **reproducible** and **credible** in the eyes of your peers, the public, and funding agencies. This track consists of **public lectures** accessible to anyone as well as **hands-on practical workshops** for a selected number of applicants. Selected applicants are expected to attend all sessions from Monday 15.09.2025 9:00 to Friday 19.09.2025 14:30.
 
-*By joining this track, you will learn how to:*<br>
-- **Specify** your research design and **set up** your statistical plans in advance of collecting data to prevent biases in analyses, with the help of preregistration and data simulation;<br>
-- **Create** computationally reproducible workflows so you can be more efficient and spot mistakes in data wrangling or analyses, through programming with version controlled scripts;<br>
-- **Prepare and share data and code** in connection with your articles by applying the Findable, Accessible, Interoperable, Reusable principles, and using adequate repositories and licenses to accumulate credit and citations.
+In this track, early career researchers who are Open Science novices learn to make their research more **transparent**, **reproducible** and **credible** in the eyes of their peers, the public, and funding agencies. This track consists of public lectures accessible to anyone as well as hands-on practical workshops for selected applicants and extends from Monday 15.09.2025 9:00 to Friday 19.09.2025 14:30.
 
-*Target audience*<br>
-Early career researchers who are Open Science novices (e.g., advanced Masters students, PhD students, postdocs). <br>
+Participants of this track learn how to:
 
-*Selection criteria*<br>
-Clear motivations and plan for implementation of Open Science skills. At equal scores, LMU members or upcoming LMU members will be favored over external students and researchers. <br>
+-   Specify research design and set up statistical plans in advance of collecting data to prevent biases in analyses, with the help of **preregistration and data simulation**;
 
-*Format*<br>
-Hybrid
+-   Create **computationally reproducible workflows** to be more efficient and spot mistakes in data wrangling or analyses, through programming with version controlled scripts;
+
+-   **Prepare and share data and code** in connection with manuscripts by applying the Findable, Accessible, Interoperable, Reusable principles, and using adequate repositories and licenses to accumulate credit and citations.
+
 
 ## Track 2: Open Science instructor training
-In this track, you will develop essential **pedagogical skills to promote Open Science** in your teaching and research environments - no prior experience in teaching required! Selected applicants are expected to attend all sessions from Friday 19.09.2025 14:30 to 17:30.
 
-*By joining this track, you will learn how to:*<br>
-- **Design and deliver** Open Science-focused workshops, and **apply basic didactic techniques** to diverse audiences;<br>
-- **Apply** activation methods in the classroom to **foster motivation** and attention;<br>
-- **Develop skills to advocate** for Open Science, to **lead research groups and discussions** around Open Science and to **analyse the potential challenges** and issues around the implementation of Open Science practises.
+In this track, early career researchers or research support staff interested in becoming Open Science instructors develop essential **pedagogical skills to promote Open Science through teaching** - no prior experience in teaching required! This track extends from Friday 19.09.2025 14:30 to 17:30.
 
-After joining this track, you will have the opportunity to put your new skills into practice and co-deliver a workshop at LMU (e.g. in your department) on an Open Science topic of your choice within six months after the workshop. If you choose to do so, the OSC will support you during the planning, preparation and delivery of the workshop with hands-on feedback and practical tips!
+Participants of this track learn how to:
 
-*Target audience*<br>
-Early career researchers or research support staff interested in becoming Open Science instructors at student/researcher-level. <br>
+-   Design and deliver Open Science workshops, and apply **basic didactic techniques** to diverse audiences;
 
-*Eligibility criteria*<br>
-- LMU member <br>
-- Proof of acquired Open Science knowledge and skills (e.g. application for track 1, certificate of attendance to previous Open Science training, link to open research resources such as a GitHub repository, FAIR dataset, or open preregistration).<br>
+-   Apply **activation methods** in the classroom to foster motivation and attention;
 
-*Selection criteria*<br>
-Clear motivations. At equal scores, those with a concrete plan for delivery will be favored. <br>
+-   Develop skills to **advocate for Open Science**, to lead research groups and discussions around Open Science, and to analyse the potential challenges and issues around the implementation of Open Science practices.
 
-*Format*<br>
-Hybrid
-
-
-Materials: EDIT <https://osf.io/nymr5/>
+After joining this track, you will have the opportunity to put your new skills into practice and co-deliver a workshop at LMU.
 
 ## Funding note
 
-The organisers of this summer school [LMU Open Science Center coordinator](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html), Dr, Malika Ihle, and [LMU Open Science Center train-the-trainer program coordinator](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html), Dr. Sarah von Grebmer zu Wolfsthurn are funded by the **OpenHyFast** and the **VW Pioneer Project** grants, respectively. The **University Library** **of LMU Munich** provides in-kind support.
+The organisers of this summer school, LMU Open Science Center coordinator [Dr. Malika Ihle](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html), and LMU Open Science Center train-the-trainer program coordinator [Dr. Sarah von Grebmer zu Wolfsthurn](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html) are funded by the LMU Central Study Fund and the Volkswagen Foundation Pioneer Project grant. The University Library of LMU Munich provides in-kind support.
 
 ![](img/OSC-LMU-UB.png){fig-alt="OSC, LMU and UB logos" fig-align="center" width="500"}
