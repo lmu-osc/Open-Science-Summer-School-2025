@@ -1,9 +1,8 @@
-### Open Science Summer School 2025
-
+# Open Science Summer School 2025
 
 The LMU Open Science Center (OSC) is excited to announce the **Open Science Summer School 2025 (OSSS25)**. This dual-track intensive 5-day Open Science Summer School aims to provide participants with two sets of skills:
 
-#### **[Track 1: Open Science knowledge and skills]{style="color:blue;"}**
+## Track 1: Open Science knowledge and skills
 In this track, you will learn to make your research more **transparent**, **reproducible** and **credible** in the eyes of your peers, the public, and funding agencies. This track consists of **public lectures** accessible to anyone as well as **hands-on practical workshops** for a selected number of applicants. Selected applicants are expected to attend all sessions from Monday 15.09.2025 9:00 to Friday 19.09.2025 14:30.
 
 *By joining this track, you will learn how to:*<br>
@@ -20,7 +19,7 @@ Clear motivations and plan for implementation of Open Science skills. At equal s
 *Format*<br>
 Hybrid
 
-#### **[Track 2: Open Science instructor training]{style="color:blue;"}**
+## Track 2: Open Science instructor training
 In this track, you will develop essential **pedagogical skills to promote Open Science** in your teaching and research environments - no prior experience in teaching required! Selected applicants are expected to attend all sessions from Friday 19.09.2025 14:30 to 17:30.
 
 *By joining this track, you will learn how to:*<br>
@@ -46,7 +45,7 @@ Hybrid
 
 Materials: EDIT <https://osf.io/nymr5/>
 
-### Funding note
+## Funding note
 
 The organisers of this summer school [LMU Open Science Center coordinator](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html), Dr, Malika Ihle, and [LMU Open Science Center train-the-trainer program coordinator](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html), Dr. Sarah von Grebmer zu Wolfsthurn are funded by the **OpenHyFast** and the **VW Pioneer Project** grants, respectively. The **University Library** **of LMU Munich** provides in-kind support.
 
