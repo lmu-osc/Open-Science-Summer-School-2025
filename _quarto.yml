@@ -22,9 +22,9 @@ website:
       - href: Lectures.qmd
         text: "Public lectures"
       - href: Workshops.qmd
-        text: "Track 1: Open Science workshops"
+        text: "Track 1: Open Science training"
       - href: Pedagogical_Workshops.qmd
-        text: "Track 2: Instructor training workshops"
+        text: "Track 2: Instructor training"
       - href: Join.qmd
         text: "Join"
     pinned: true
