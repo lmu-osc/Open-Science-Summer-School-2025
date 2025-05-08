@@ -24,7 +24,7 @@ website:
       - href: Workshops.qmd
         text: "Track 1: Open Science workshops"
       - href: Pedagogical_Workshops.qmd
-        text: "Track 2: Pedagogy workshops"
+        text: "Track 2: Instructor training workshops"
       - href: Join.qmd
         text: "Join"
     pinned: true

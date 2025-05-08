@@ -1,10 +1,10 @@
 # Apply to attend either or both tracks (in-person or online)
 
-You can apply for Track 1, Track 2, or both by filling out the corresponding application forms before **14 July 2025, 12:00 noon CEST.** 
+You can apply for Track 1, Track 2, or both, by filling out the corresponding application forms before **14 July 2025, 12:00 noon CEST.** 
 
 The in-person part of the school will take place in UB der LMU - Fachbibliothek Philologicum, **Ludwigstraße 25, 80539 München, Germany**. The online part will be on **Zoom**. We are unable to provide travel grants. 
 
-*If you are interested in attending both tracks, please fill out both application forms. Applicants for both tracks will be notified of the results of their application by July 21. If selected or wait-listed, you will have to confirm your spot by July 30.* 
+*If you are interested in attending both tracks, please fill out both application forms. Applicants will be notified of the results of their application by July 21. If selected or wait-listed, you will have to confirm your spot by July 30.* 
 
 ## Apply to attend Track 1 “Open Science knowledge and skills”
 
@@ -24,10 +24,10 @@ Selected applicants of Track 2 are expected to attend all sessions from Friday 1
 **Apply here:** [**https://surveys.osc.lmu.de/OSSS25-instructor-training-application**](https://surveys.osc.lmu.de/OSSS25-instructor-training-application){target="_blank"}
 
 **Target audience**: early career researchers or research support staff interested in becoming Open Science instructors.\
-**Eligibility criteria**: 1. LMU member 2.  proof of acquired Open Science knowledge and skills (e.g. application for Track 1, certificate of attendance to previous Open Science training, link to open research resources such as a GitHub repository, FAIR dataset, or open preregistration).\
-**Selection criteria**: Clear motivations. At equal scores, those with a concrete plan for delivery will be favored.\ 
+**Eligibility criteria**: Proof of acquired Open Science knowledge and skills (e.g. application for Track 1, certificate of attendance to previous Open Science training, link to open research resources such as a GitHub repository, FAIR dataset, or open preregistration).\
+**Selection criteria**: Clear motivations. At equal scores, those with a concrete plan for delivering an Open Science workshop and LMU members will be favored.\ 
 **Certificate of attendance**: You will automatically receive a certificate of attendance following your participation.\
-**Certificate of Open Science teaching skills**: After joining this track, you will have the opportunity to put your new skills into practice and co-deliver a workshop at LMU (e.g. in your department) on an Open Science topic of your choice within 6 months <!-- can we please discuss this, I really think a year would be more accurate --> after the summer school. If you choose to do so, the OSC will support you during the planning, preparation and delivery of the workshop with hands-on feedback and practical tips. After your workshop delivery, you will receive an additional certificate of Open Science teaching skills. 
+**Certificate of Open Science teaching skills**: After joining this track, you will have the opportunity to put your new skills into practice and co-deliver a workshop at LMU (e.g. in your department) on an Open Science topic of your choice before August 2026. If you choose to do so, the OSC will support you during the planning, preparation and delivery of the workshop with hands-on feedback and practical tips. After your workshop delivery, you will receive an additional certificate of Open Science teaching skills. 
 
 # Join one or several of the public lectures (online)
 

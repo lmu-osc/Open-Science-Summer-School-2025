@@ -20,9 +20,9 @@ Are you interested in introducing your peers, students, or lab group to Open Sci
 
 -   Explain key theoretical frameworks around learning and knowledge acquisition
 -   Formulate clear and measurable learning goals for sessions on Open Science topics
--   Design course materials and learning activities tailored to teaching Open Science principles to diverse audiences, including students and researchers.
+-   Design course materials and learning activities tailored to teaching Open Science principles to diverse audiences, including students and researchers
 -   Select from different activation methods and apply them in practice
--   Apply and adapt didactic tools and techniques to meet the needs of various learners, regardless of their prior knowledge or background in Open Science.
+-   Apply and adapt didactic tools and techniques to meet the needs of various learners, regardless of their prior knowledge or background in Open Science
 
 ## Leadership in Open Science
 
