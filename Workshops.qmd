@@ -49,12 +49,12 @@ You will be guided through the What, Why, and How of simulations of data and dat
 
 We will follow this self-paced tutorial: <https://lmu-osc.github.io/Introduction-Simulations-in-R/>. 
 
-## Research data management (RDM) plans
+## Research Data Management (RDM) plans
 
 [Laura Meier](https://www.ub.uni-muenchen.de/ueber-die-ub/kontakt/personen/meier-l/index.html), [Reema Gupta](https://www.osc.uni-muenchen.de/members/individual_members/fellows/gupta/index.html)\
 ![](img/reema-gupta.png){width="100"} ![](img/laura-meier.png){width="100"} Wednesday 17 September, 13:15-14:15
 
-The planning of a research project and the management of one’s own data bring many advantages in everyday research. Laura Meier, from the RDM information team of University Library of LMU Munich, will present what to look for when creating a data management plan and how web-based tools such as the Research Data Management Organiser (RDMO) can be used to make research data management easier.
+The planning of a research project and the management of one’s own data bring many advantages in everyday research. Laura Meier, from the RDM information team of the LMU Munich University Library, will present what to look for when creating a data management plan and how web-based tools such as the Research Data Management Organiser (RDMO) can be used to make research data management easier.
 
 The material for this workshop can be found here: <https://lmu-osc.github.io/FAIR-Data-Management/dmp.html>
 
@@ -65,7 +65,7 @@ The material for this workshop can be found here: <https://lmu-osc.github.io/FAI
 
 In this workshop, you will learn the basic concept of version control using RStudio as one of many possible GUI interfaces that can interact with Git. You will learn how to use version control for your own workflow (Git within RStudio with backup online on GitHub) and for collaborative coding (fork, clone, pull requests on Github). 
 
-The self-paced tutorials can be found at: <https://github.com/lmu-osc/Introduction-RStudio-Git-GitHub/> and <https://github.com/lmu-osc/Collaborative-RStudio-GitHub>.
+The tutorials can be found at: <https://github.com/lmu-osc/Introduction-RStudio-Git-GitHub/> and <https://github.com/lmu-osc/Collaborative-RStudio-GitHub>.
 
 ## Quarto
 
@@ -74,7 +74,7 @@ The self-paced tutorials can be found at: <https://github.com/lmu-osc/Introducti
 
 Quarto makes transparent and reproducible data analysis simple and fun. In a nutshell, Quarto lets you mix text written in markdown with chunks of executable code written in, e.g., R or Python. You can use it for interactive notebooks, and export to a large number of formats including HTML, PDF/LaTeX, Microsoft Word or PowerPoint, or even interactive websites. In this workshop, we cover the fundamentals, including the markdown syntax, code chunks and inline code, and the output formats available. We also go over citations, cross-referencing, and templating, which ultimately allow you to write academic papers entirely in Quarto.
 
-The self-paced tutorial for this workshop can be found here: <https://github.com/lmu-osc/introduction-to-Quarto>
+The tutorial for this workshop can be found here: <https://github.com/lmu-osc/introduction-to-Quarto>
 
 ## Reproducible R environment and code publishing
 
@@ -84,7 +84,7 @@ This session will wrap up all the computing skill workshops of this week by crea
 
 Workshop participants will clone a GitHub repository containing data, create an example manuscript in Quarto (with formatted text, figures, table, references), using R and Zotero, make sure the computational environment is reproducible using renv and binder, add appropriate documentation (e.g. README file) and licence to allow reuse, and select an appropriate platform to publish projects with a DOI.
 
-The self-paced tutorial for this workshop can be found here: <https://github.com/lmu-osc/code-publishing>
+The tutorial for this workshop can be found here: <https://github.com/lmu-osc/code-publishing>
 
 # Interactive sessions {#interactivesessions}
 
@@ -100,7 +100,7 @@ We will welcome online and in-person participants to the summer school, introuce
 **OSC Team**\
 Monday 15 September, 13:15-14:15
 
-In person and online participants will get to know each other in speed-networking discussion in small groups, each with a 360 degrees camera-microphone.
+In-person and online participants will get to know each other in small groups, each with a 360 degrees camera-microphone.
 
 ## Dinner
 
@@ -113,7 +113,7 @@ Dinner among attendees and instructors will be at own cost and upon separate reg
 **OSC Team**\
 Friday 19 September, 9:00-11:45
 
-In this session, you will have the opportunity to ask questions about your own projects and receive tailored guidance from the instructors and facilitators. Whether you're facing challenges with your code, or one of the topics covered during this summer school, this session provides a space for personalised support, troubleshooting and solution-focused group discussions.
+In these sessions, you will have the opportunity to ask questions about your own projects and receive tailored guidance from the instructors and facilitators. Whether you're facing challenges with your code, or one of the topics covered during this summer school, this session provides a space for personalized support, troubleshooting and solution-focused group discussions.
 
 
 ## Where to go from here?
