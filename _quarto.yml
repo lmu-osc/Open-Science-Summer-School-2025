@@ -7,7 +7,7 @@ website:
     title: "LMU Open Science Center Summer School 2025"
     description: "programme and application process"
     image: img/flyerpreview.png
-    image-height: 418
+    card-style: summary_large_image
   search: false
     
   title: "LMU Open Science Center Summer School 2025"
@@ -15,8 +15,6 @@ website:
   repo-url: https://github.com/lmu-osc/Open-Science-Summer-School-2025 
   navbar:
     left:
-      - href: index.qmd
-        text: "Home"
       - href: Programme.qmd
         text: "Programme"
       - href: Lectures.qmd

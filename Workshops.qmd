@@ -15,8 +15,8 @@ These [workshops](#workshops) and [interactive sessions](#interactivesessions) a
 
 ## Introduction to R
 
-[Sarah von Grebmer zu Wolfsthurn](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html)\
-![](img/sarah-von-grebmer.png){width="100"} Monday 15 September, 14:30-17:30
+[Sarah von Grebmer zu Wolfsthurn](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html), [Maximilian Frank](https://www.osc.uni-muenchen.de/members/individual_members/fellows/frank/index.html)\
+![](img/max-frank.png){width="100"} ![](img/sarah-von-grebmer.png){width="100"} Monday 15 September, 14:30-17:30
 
 This workshop introduces the fundamentals of the R programming language with a track for total novices and a track for researchers already familiar with R. Through hands-on exercises, you will learn how to navigate RStudio, import and manipulate data, and create basic visualizations. By the end of the session, participants will have the skills and confidence to use R for their own research projects.
 

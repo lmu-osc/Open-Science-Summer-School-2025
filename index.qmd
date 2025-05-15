@@ -1,5 +1,7 @@
 # Open Science Summer School 2025
 
+![](img/this_could_be_you.png){}
+
 The [LMU Open Science Center](https://www.osc.uni-muenchen.de/index.html){target="_blank"} organises its 5^th^ hybrid summer school. This year's iteration has two tracks to provide participants with two sets of skills.
 
 The in-person part of the school will take place in the Philologicum Library, **Ludwigstraße 25, 80539 München, Germany**. The online part will be on **Zoom**.
