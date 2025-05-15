@@ -221,7 +221,7 @@
     "href": "Lectures.html#vera-karlbauer-readable-code",
     "title": "LMU Open Science Center Summer School 2025",
     "section": "Vera Karlbauer: Readable code",
-    "text": "Vera Karlbauer: Readable code\n\nThursday 18 September, 09:00-09:45\nMany research questions require code to be answered. Clear, understandable and maintainable code is key to reduce analysis errors and improve reproducibility. Vera Karlbauer, PhD student at the Max Planck Institute of Psychiatry (MPIP), will give an overview which concepts work for data analysis scripts and share specific recommendations and examples for clean code that are applicable across scientific disciplines. The lecture introduces key strategies such as following a style guide, code reuse, unified project structures and code review."
+    "text": "Vera Karlbauer: Readable code\n Thursday 18 September, 09:00-09:45\nMany research questions require code to be answered. Clear, understandable and maintainable code is key to reduce analysis errors and improve reproducibility. Vera Karlbauer, PhD student at the Max Planck Institute of Psychiatry (MPIP), will give an overview which concepts work for data analysis scripts and share specific recommendations and examples for clean code that are applicable across scientific disciplines. The lecture introduces key strategies such as following a style guide, code reuse, unified project structures and code review."
   },
   {
     "objectID": "Lectures.html#tim-errington-assessing-research-replicablity",

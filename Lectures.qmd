@@ -45,7 +45,7 @@ Prof. Dr. [Felix Schönbrodt](https://www.osc.uni-muenchen.de/about_us/director/
 
 ## Vera Karlbauer: Readable code
 
-<!-- ![](img/sarah-von-grebmer.png){width="100"} -->
+![](img/vera-karlbauer.png){width="100"}
 Thursday 18 September, 09:00-09:45
 
 Many research questions require code to be answered. Clear, understandable and maintainable code is key to reduce analysis errors and improve reproducibility. [Vera Karlbauer](https://www.psych.mpg.de/person/125319), PhD student at the Max Planck Institute of Psychiatry (MPIP), will give an overview which concepts work for data analysis scripts and share specific recommendations and examples for clean code that are applicable across scientific disciplines. The lecture introduces key strategies such as following a style guide, code reuse, unified project structures and code review.
