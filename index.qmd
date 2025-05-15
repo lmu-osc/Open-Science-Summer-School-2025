@@ -1,6 +1,8 @@
-# Open Science Summer School 2025
+---
+title: "Open Science Summer School 2025"
+---
 
-![](img/this_could_be_you.png){}
+![](img/this_could_be_you.png){width=60% alt="photo of the philologicum library building, with a long middle part with a glass wall flancked by stone building parts. In front of the building, there is a profile outline of an anonymous group of people, one of them holding a laptop facing us with other people on the screen. An arrow points to the group of people and laptop, labelled 'this could be you!'" fig-align="center"}
 
 The [LMU Open Science Center](https://www.osc.uni-muenchen.de/index.html){target="_blank"} organises its 5^th^ hybrid summer school. This year's iteration has two tracks to provide participants with two sets of skills.
 

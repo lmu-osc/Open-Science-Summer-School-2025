@@ -38,7 +38,7 @@ format:
     - cosmo
     - custom.scss
     toc: true
-css: styles.css
+    css: styles.css
  
 
 editor: source
