@@ -13,10 +13,13 @@ These workshops are for selected applicants of Track 2 only (see [Join](Join.qmd
 
 ## Teaching Open Science - Didactics, tools and techniques
 
+[Barbara Beege](https://www.profil.uni-muenchen.de/profil/personen/leitung/beege/index.html),
 [Sarah von Grebmer zu Wolfsthurn](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html)\
-![](img/sarah-von-grebmer.png){width="100"} Friday 19 September, 14:30-16:30
 
-Are you interested in introducing your peers, students, or lab group to Open Science, or thinking about offering engaging workshops on the topic? Or are you simply interested in how to make your teaching better? This interactive, evidence-based workshop combines core didactic principles with practical tools to help you effectively teach Open Science to researchers and students. Participants will learn about the foundations of successful learning, how to set learning goals, design engaging lessons, and engage audiences through a variety of activation methods. A special focus is placed on hands-on exercises to not only equip you with essential tools to plan, design, deliver, and adapt hands-on content on Open Science, but also to explore and adapt activation techniques that boost motivation and attention in classroom settings. No prior teaching experience is required — just curiosity and a desire to apply these didactic skills in the context of Open Science. At the end of this workshop, you will be able to:
+
+![](img/sarah-von-grebmer.png){width="100"} ![](img/barbara-beege.png){width="100"} Friday 19 September, 14:30-16:30
+
+Are you interested in introducing your peers, students, or lab group to Open Science, or thinking about offering engaging workshops on the topic? Or are you simply interested in how to make your teaching better? This interactive, evidence-based workshop combines core didactic principles with practical tools to help you effectively teach Open Science to researchers and students. Led by [PROFiL](https://www.profil.uni-muenchen.de/index.html) trainer [Barbara Beege](https://www.profil.uni-muenchen.de/profil/personen/leitung/beege/index.html), participants will learn about the foundations of successful learning, how to set learning goals, design engaging lessons, and engage audiences through a variety of activation methods. A special focus is placed on hands-on exercises to not only equip you with essential tools to plan, design, deliver, and adapt hands-on content on Open Science, but also to explore and adapt activation techniques that boost motivation and attention in classroom settings. No prior teaching experience is required — just curiosity and a desire to apply these didactic skills in the context of Open Science. At the end of this workshop, you will be able to:
 
 -   Explain key theoretical frameworks around learning and knowledge acquisition;
 -   Formulate clear and measurable learning goals for sessions on open science topics;
