@@ -18,7 +18,7 @@
     "href": "Workshops.html#fair-research-data-management",
     "title": "Workshops",
     "section": "FAIR research data management",
-    "text": "FAIR research data management\nReema Gupta, Laura MeierSara Lil Middleton\n   Tuesday 16 September, 10:00-11:45\nThis session is centered around the FAIR principles — Findability, Accessibility, Interoperability, and Reusability — and their practical application in managing your research data efficiently. Learn to manage your data in a way that enhances its value and accessibility for the wider research community.\nAppreciation of adequate data management mostly occurs very late, e.g., when looking into someone else’s data folder. We are here artificially advancing this experience: You will investigate a publicly available dataset and complete exercises regarding data organization, documentation, and publication aspects.\nThe material for this workshop can be found here: https://lmu-osc.github.io/FAIR-Data-Management/"
+    "text": "FAIR research data management\nReema Gupta, Laura Meier, Sara Lil Middleton\n   Tuesday 16 September, 10:00-11:45\nThis session is centered around the FAIR principles — Findability, Accessibility, Interoperability, and Reusability — and their practical application in managing your research data efficiently. Learn to manage your data in a way that enhances its value and accessibility for the wider research community.\nAppreciation of adequate data management mostly occurs very late, e.g., when looking into someone else’s data folder. We are here artificially advancing this experience: You will investigate a publicly available dataset and complete exercises regarding data organization, documentation, and publication aspects.\nThe material for this workshop can be found here: https://lmu-osc.github.io/FAIR-Data-Management/"
   },
   {
     "objectID": "Workshops.html#preregistration",
@@ -39,7 +39,7 @@
     "href": "Workshops.html#research-data-management-rdm-plans",
     "title": "Workshops",
     "section": "Research Data Management (RDM) plans",
-    "text": "Research Data Management (RDM) plans\nLaura Meier, Reema GuptaSara Lil Middleton\n   Wednesday 17 September, 13:15-14:15\nThe planning of a research project and the management of one’s own data bring many advantages in everyday research. Laura Meier, from the RDM information team of the LMU Munich University Library, will present what to look for when creating a data management plan and how web-based tools such as the Research Data Management Organiser (RDMO) can be used to make research data management easier.\nThe material for this workshop can be found here: https://lmu-osc.github.io/FAIR-Data-Management/dmp.html"
+    "text": "Research Data Management (RDM) plans\nLaura Meier, Reema Gupta, Sara Lil Middleton\n   Wednesday 17 September, 13:15-14:15\nThe planning of a research project and the management of one’s own data bring many advantages in everyday research. Laura Meier, from the RDM information team of the LMU Munich University Library, will present what to look for when creating a data management plan and how web-based tools such as the Research Data Management Organiser (RDMO) can be used to make research data management easier.\nThe material for this workshop can be found here: https://lmu-osc.github.io/FAIR-Data-Management/dmp.html"
   },
   {
     "objectID": "Workshops.html#version-control-in-rstudio-with-git",

@@ -24,7 +24,7 @@ The self-paced tutorial for this workshop can be found here: <https://github.com
 
 ## FAIR research data management
 
-[Reema Gupta](https://www.osc.uni-muenchen.de/members/individual_members/fellows/gupta/index.html), [Laura Meier](https://www.ub.uni-muenchen.de/ueber-die-ub/kontakt/personen/meier-l/index.html)[Sara Lil Middleton](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/lil/index.html)\
+[Reema Gupta](https://www.osc.uni-muenchen.de/members/individual_members/fellows/gupta/index.html), [Laura Meier](https://www.ub.uni-muenchen.de/ueber-die-ub/kontakt/personen/meier-l/index.html), [Sara Lil Middleton](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/lil/index.html)\
 ![](img/sara-lil-middleton.png){width="100"} ![](img/laura-meier.png){width="100"} ![](img/reema-gupta.png){width="100"}  Tuesday 16 September, 10:00-11:45
 
 This session is centered around the FAIR principles — Findability, Accessibility, Interoperability, and Reusability — and their practical application in managing your research data efficiently. Learn to manage your data in a way that enhances its value and accessibility for the wider research community.
@@ -51,7 +51,7 @@ We will follow this self-paced tutorial: <https://lmu-osc.github.io/Introduction
 
 ## Research Data Management (RDM) plans
 
-[Laura Meier](https://www.ub.uni-muenchen.de/ueber-die-ub/kontakt/personen/meier-l/index.html), [Reema Gupta](https://www.osc.uni-muenchen.de/members/individual_members/fellows/gupta/index.html)[Sara Lil Middleton](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/lil/index.html)\
+[Laura Meier](https://www.ub.uni-muenchen.de/ueber-die-ub/kontakt/personen/meier-l/index.html), [Reema Gupta](https://www.osc.uni-muenchen.de/members/individual_members/fellows/gupta/index.html), [Sara Lil Middleton](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/lil/index.html)\
 ![](img/sara-lil-middleton.png){width="100"} ![](img/reema-gupta.png){width="100"} ![](img/laura-meier.png){width="100"} Wednesday 17 September, 13:15-14:15
 
 The planning of a research project and the management of one’s own data bring many advantages in everyday research. Laura Meier, from the RDM information team of the LMU Munich University Library, will present what to look for when creating a data management plan and how web-based tools such as the Research Data Management Organiser (RDMO) can be used to make research data management easier.
