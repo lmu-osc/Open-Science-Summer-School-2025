@@ -43,12 +43,12 @@ Prof. Dr. [Richard McElreath](https://www.eva.mpg.de/ecology/staff/richard-mcelr
 
 Prof. Dr. [Felix Schönbrodt](https://www.osc.uni-muenchen.de/about_us/director/index.html) will explain the different shades of Open Access (e.g. green, gold, diamond) and their advantages, and show what different ways there are to make your own publications freely accessible.
 
-## Vera Karlbauer: Readable code
+## Vera Karlbauer & Jonas Hagenberg: Readable code
 
-![](img/vera-karlbauer.png){width="100"}
+![](img/jonas-hagenberg.png){width="100"} ![](img/vera-karlbauer.png){width="100"}
 Thursday 18 September, 09:00-09:45
 
-Many research questions require code to be answered. Clear, understandable and maintainable code is key to reduce analysis errors and improve reproducibility. [Vera Karlbauer](https://www.psych.mpg.de/person/125319), PhD student at the Max Planck Institute of Psychiatry (MPIP), will give an overview which concepts work for data analysis scripts and share specific recommendations and examples for clean code that are applicable across scientific disciplines. The lecture introduces key strategies such as following a style guide, code reuse, unified project structures and code review.
+Many research questions require code to be answered. Clear, understandable and maintainable code is key to reduce analysis errors and improve reproducibility. [Vera Karlbauer](https://www.psych.mpg.de/person/125319), PhD student at the Max Planck Institute of Psychiatry (MPIP), and [Jonas Hagenberg](https://www.helmholtz.ai/applied-ai/ai-consultancy-teams/piraud-team/), AI consultant at Helmholtz, will give an overview which concepts work for data analysis scripts and share specific recommendations and examples for clean code that are applicable across scientific disciplines. The lecture introduces key strategies such as following a style guide, code reuse, unified project structures and code review.
 
 ## Tim Errington: Assessing research replicablity
 
