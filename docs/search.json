@@ -11,7 +11,7 @@
     "href": "Workshops.html#introduction-to-r",
     "title": "Workshops",
     "section": "Introduction to R",
-    "text": "Introduction to R\nSarah von Grebmer zu Wolfsthurn, Maximilian Frank, Sara Lil Middleton\n   Monday 15 September, 14:30-17:30\nThis workshop introduces the fundamentals of the R programming language with a track for total novices and a track for researchers already familiar with R. Through hands-on exercises, you will learn how to navigate RStudio, import and manipulate data, and create basic visualizations. By the end of the session, participants will have the skills and confidence to use R for their own research projects.\nThe self-paced tutorial for this workshop can be found here: https://github.com/lmu-osc/introduction-to-R"
+    "text": "Introduction to R\nSarah von Grebmer zu Wolfsthurn, Maximilian Frank, Sara Lil Middleton\n   Monday 15 September, 14:30-17:30\nThis workshop introduces the fundamentals of the R programming language with a track for total novices and a track for researchers already familiar with R. Through hands-on exercises, you will learn how to navigate RStudio, import and manipulate data, and create basic visualizations. By the end of the session, participants will have the skills and confidence to use R for their own research projects.\nThe self-paced tutorial for this workshop can be found here: https://lmu-osc.github.io/introduction-to-R/"
   },
   {
     "objectID": "Workshops.html#fair-research-data-management",
@@ -32,7 +32,7 @@
     "href": "Workshops.html#simulations-of-data-and-data-analyses-in-r",
     "title": "Workshops",
     "section": "Simulations of data and data analyses in R",
-    "text": "Simulations of data and data analyses in R\nMalika Ihle\n Tuesday 16 September, 15:30-17:30\nYou will be guided through the What, Why, and How of simulations of data and data analyses. Specifically, we will cover the concept of power analyses for simple tests, how to check for false positive rates, and how simulations can help with preparing a preregistration.\nWe will follow this self-paced tutorial: https://lmu-osc.github.io/Introduction-Simulations-in-R/."
+    "text": "Simulations of data and data analyses in R\nMalika Ihle\n Tuesday 16 September, 15:30-17:30\nYou will be guided through the What, Why, and How of simulations of data and data analyses. Specifically, we will cover the concept of power analyses for simple tests, how to check for false positive rates, and how simulations can help with preparing a preregistration.\nWe will follow this self-paced tutorial: https://lmu-osc.github.io/Introduction-Simulations-in-R/"
   },
   {
     "objectID": "Workshops.html#research-data-management-rdm-plans",
@@ -46,21 +46,21 @@
     "href": "Workshops.html#version-control-in-rstudio-with-git",
     "title": "Workshops",
     "section": "Version control in RStudio with Git",
-    "text": "Version control in RStudio with Git\nMalika Ihle, Reema Gupta, Florian Kohrt\n   Wednesday 17 September, 14:30-17:30\nIn this workshop, you will learn the basic concept of version control using RStudio as one of many possible GUI interfaces that can interact with Git. You will learn how to use version control for your own workflow (Git within RStudio with backup online on GitHub) and for collaborative coding (fork, clone, pull requests on Github).\nThe tutorials can be found at: https://github.com/lmu-osc/Introduction-RStudio-Git-GitHub/ and https://github.com/lmu-osc/Collaborative-RStudio-GitHub."
+    "text": "Version control in RStudio with Git\nMalika Ihle, Reema Gupta, Florian Kohrt\n   Wednesday 17 September, 14:30-17:30\nIn this workshop, you will learn the basic concept of version control using RStudio as one of many possible GUI interfaces that can interact with Git. You will learn how to use version control for your own workflow (Git within RStudio with backup online on GitHub) and for collaborative coding (fork, clone, pull requests on Github).\nThe tutorials can be found at: https://lmu-osc.github.io/Introduction-RStudio-Git-GitHub/ and https://lmu-osc.github.io/Collaborative-RStudio-GitHub/"
   },
   {
     "objectID": "Workshops.html#quarto",
     "href": "Workshops.html#quarto",
     "title": "Workshops",
     "section": "Quarto",
-    "text": "Quarto\nPat Callahan, Florian Kohrt, Reema Gupta\n  Thursday 18 September, 10:00-11:45\nQuarto makes transparent and reproducible data analysis simple and fun. In a nutshell, Quarto lets you mix text written in markdown with chunks of executable code written in, e.g., R or Python. You can use it for interactive notebooks, and export to a large number of formats including HTML, PDF/LaTeX, Microsoft Word or PowerPoint, or even interactive websites. In this workshop, we cover the fundamentals, including the markdown syntax, code chunks and inline code, and the output formats available. We also go over citations, cross-referencing, and templating, which ultimately allow you to write academic papers entirely in Quarto.\nThe tutorial for this workshop can be found here: https://github.com/lmu-osc/introduction-to-Quarto"
+    "text": "Quarto\nPat Callahan, Florian Kohrt, Reema Gupta\n  Thursday 18 September, 10:00-11:45\nQuarto makes transparent and reproducible data analysis simple and fun. In a nutshell, Quarto lets you mix text written in markdown with chunks of executable code written in, e.g., R or Python. You can use it for interactive notebooks, and export to a large number of formats including HTML, PDF/LaTeX, Microsoft Word or PowerPoint, or even interactive websites. In this workshop, we cover the fundamentals, including the markdown syntax, code chunks and inline code, and the output formats available. We also go over citations, cross-referencing, and templating, which ultimately allow you to write academic papers entirely in Quarto.\nThe tutorial for this workshop can be found here: https://lmu-osc.github.io/introduction-to-Quarto/"
   },
   {
     "objectID": "Workshops.html#reproducible-r-environment-and-code-publishing",
     "href": "Workshops.html#reproducible-r-environment-and-code-publishing",
     "title": "Workshops",
     "section": "Reproducible R environment and code publishing",
-    "text": "Reproducible R environment and code publishing\nFlorian Kohrt, Pat Callahan, Reema Gupta   Thursday 18 September, 13:15-16:15\nThis session will wrap up all the computing skill workshops of this week by creating a minimal example of a reproducible executable manuscript containing analyses and results that can be made available upon submission of a manuscript.\nWorkshop participants will clone a GitHub repository containing data, create an example manuscript in Quarto (with formatted text, figures, table, references), using R and Zotero, make sure the computational environment is reproducible using renv and binder, add appropriate documentation (e.g. README file) and licence to allow reuse, and select an appropriate platform to publish projects with a DOI.\nThe tutorial for this workshop can be found here: https://github.com/lmu-osc/code-publishing"
+    "text": "Reproducible R environment and code publishing\nFlorian Kohrt, Pat Callahan, Reema Gupta   Thursday 18 September, 13:15-16:15\nThis session will wrap up all the computing skill workshops of this week by creating a minimal example of a reproducible executable manuscript containing analyses and results that can be made available upon submission of a manuscript.\nWorkshop participants will clone a GitHub repository containing data, create an example manuscript in Quarto (with formatted text, figures, table, references), using R and Zotero, make sure the computational environment is reproducible using renv and binder, add appropriate documentation (e.g. README file) and licence to allow reuse, and select an appropriate platform to publish projects with a DOI.\nThe tutorials for this workshop can be found here: https://lmu-osc.github.io/introduction-to-renv/ and here: https://lmu-osc.github.io/code-publishing/"
   },
   {
     "objectID": "Workshops.html#welcome-logistics",
