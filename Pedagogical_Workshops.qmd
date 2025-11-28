@@ -27,6 +27,8 @@ Are you interested in introducing your peers, students, or lab group to Open Sci
 -   Select from different activation methods and apply them in practice;
 -   Apply and adapt didactic tools and techniques to meet the needs of various learners, regardless of their prior knowledge or background in Open Science.
 
+The workshop slides can be found here: <a href="https://osf.io/tkwqs/files/h8xb5" target="_blank">https://osf.io/</a>
+
 ## Leadership in Open Science
 
 [Franziska Schrade](https://www.lmu.de/psy/de/center-for-leadership-and-people-management/),
@@ -37,3 +39,5 @@ Are you keen on implementing Open Science and would like to learn more about the
 
 -   Critically assess the principles and challenges of Open Science in academic practice and identify common barriers to implementing open research practices such as accessibility, diversity, and citation politics;
 -   Develop the skills and confidence to lead, moderate, and advocate for open science initiatives, including workshops and lectures.
+
+The workshop slides can be found here: <a href="https://osf.io/tkwqs/files/zqj4s" target="_blank">https://osf.io/</a>
